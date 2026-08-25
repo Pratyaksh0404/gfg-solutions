@@ -40,5 +40,12 @@
     "difficulty": "Medium",
     "language": "python",
     "path": "additive-sequence/"
+  },
+  {
+    "slug": "majority-vote",
+    "title": "Majority Element - More Than n/3",
+    "difficulty": "Unknown",
+    "language": "python",
+    "path": "majority-vote/"
   }
 ]
