@@ -26,5 +26,12 @@
     "difficulty": "Easy",
     "language": "python",
     "path": "move-all-negative-elements-to-end1813/"
+  },
+  {
+    "slug": "validate-an-ip-address-1587115621",
+    "title": "Validate an IP Address",
+    "difficulty": "Unknown",
+    "language": "python",
+    "path": "validate-an-ip-address-1587115621/"
   }
 ]
