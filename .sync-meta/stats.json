@@ -33,5 +33,12 @@
     "difficulty": "Unknown",
     "language": "python",
     "path": "validate-an-ip-address-1587115621/"
+  },
+  {
+    "slug": "additive-sequence",
+    "title": "Check Sum String",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "additive-sequence/"
   }
 ]
