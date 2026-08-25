@@ -19,5 +19,12 @@
     "difficulty": "Unknown",
     "language": "text",
     "path": "reverse-digit0316/"
+  },
+  {
+    "slug": "move-all-negative-elements-to-end1813",
+    "title": "Move all negative elements to end",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "move-all-negative-elements-to-end1813/"
   }
 ]
