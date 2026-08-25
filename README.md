@@ -6,4 +6,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
-| 1 | [find-the-string-in-grid0111](find-the-string-in-grid0111/) | Unknown | text |
+| 1 | [Find the string in grid Solution - Java](find-the-string-in-grid0111/) | Unknown | text |
