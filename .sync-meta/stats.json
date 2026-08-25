@@ -47,5 +47,12 @@
     "difficulty": "Unknown",
     "language": "python",
     "path": "majority-vote/"
+  },
+  {
+    "slug": "morning-assembly3038",
+    "title": "Minimum Moves to Sort Permutation",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "morning-assembly3038/"
   }
 ]
