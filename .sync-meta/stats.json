@@ -54,5 +54,12 @@
     "difficulty": "Easy",
     "language": "python",
     "path": "morning-assembly3038/"
+  },
+  {
+    "slug": "negative-weight-cycle3504",
+    "title": "Negative Weight Cycle",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "negative-weight-cycle3504/"
   }
 ]
