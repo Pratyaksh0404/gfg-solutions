@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 10 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 2 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 11 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 3 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -16,3 +16,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
 | 9 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
 | 10 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Unknown | python |
+| 11 | [Wave Array](wave-array-1587115621/) | Medium | python |
