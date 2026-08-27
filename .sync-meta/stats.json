@@ -61,5 +61,12 @@
     "difficulty": "Medium",
     "language": "python",
     "path": "negative-weight-cycle3504/"
+  },
+  {
+    "slug": "find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243",
+    "title": "Largest Rectangle with Column Swaps",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/"
   }
 ]
