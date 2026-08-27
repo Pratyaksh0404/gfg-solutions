@@ -75,5 +75,13 @@
     "difficulty": "Medium",
     "language": "python",
     "path": "wave-array-1587115621/"
+  },
+  {
+    "slug": "rearrange-an-array-with-o1-extra-space3142",
+    "title": "Transform Array In-Place",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "rearrange-an-array-with-o1-extra-space3142/",
+    "url": "https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1"
   }
 ]
