@@ -1,14 +1,50 @@
 # Solutions
 
-**Total solved:** 14 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 6 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 15 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 7 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
+
+## Expected Complexities
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+
+## Friends Pairing Problem
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
 ## MathematicsBinary Search
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+
+## Modular Arithmetic
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+
+## Recursion
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+
+## Related Articles
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+
+## Topic Tags
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
 ## Uncategorized
 
