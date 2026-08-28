@@ -91,5 +91,14 @@
     "language": "python",
     "path": "buying-vegetables0016/",
     "url": "https://www.geeksforgeeks.org/problems/buying-vegetables0016/1"
+  },
+  {
+    "slug": "find-nth-root-of-m5843",
+    "title": "Find nth root of m",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "find-nth-root-of-m5843/",
+    "url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
+    "topic": "MathematicsBinary Search"
   }
 ]
