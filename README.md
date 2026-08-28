@@ -1,8 +1,14 @@
 # Solutions
 
-**Total solved:** 16 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 7 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 17 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 8 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
+
+## C Program For Tower Of Hanoi
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## Expected Complexities
 
@@ -10,11 +16,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
+## Flipkart
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
 ## Friends Pairing Problem
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+
+## Make
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## MathematicsBinary Search
 
@@ -22,17 +40,30 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
 
+## Microsoft
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
 ## Modular Arithmetic
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
+## My
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
 ## Recursion
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+| 2 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## Related Articles
 
@@ -40,11 +71,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
+## Related Interview Experiences
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
 ## Topic Tags
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+
+## Trip
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## Uncategorized
 
