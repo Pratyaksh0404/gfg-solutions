@@ -116,5 +116,16 @@
       "Related Articles",
       "Friends Pairing Problem"
     ]
+  },
+  {
+    "slug": "finding-profession3834",
+    "title": "Finding Profession",
+    "difficulty": "Unknown",
+    "language": "python",
+    "path": "finding-profession3834/",
+    "url": "https://www.geeksforgeeks.org/problems/finding-profession3834/1",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
