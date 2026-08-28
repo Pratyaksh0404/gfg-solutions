@@ -100,5 +100,21 @@
     "path": "find-nth-root-of-m5843/",
     "url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
     "topic": "MathematicsBinary Search"
+  },
+  {
+    "slug": "friends-pairing-problem5425",
+    "title": "Friends Pairing Problem",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "friends-pairing-problem5425/",
+    "url": "https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+    "topics": [
+      "Expected Complexities",
+      "Topic Tags",
+      "Modular Arithmetic",
+      "Recursion",
+      "Related Articles",
+      "Friends Pairing Problem"
+    ]
   }
 ]
