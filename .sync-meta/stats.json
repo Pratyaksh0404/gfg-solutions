@@ -127,5 +127,23 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "tower-of-hanoi-1587115621",
+    "title": "Tower Of Hanoi",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "tower-of-hanoi-1587115621/",
+    "url": "https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1",
+    "topics": [
+      "Microsoft",
+      "Make",
+      "My",
+      "Trip",
+      "Flipkart",
+      "Recursion",
+      "Related Interview Experiences",
+      "C Program For Tower Of Hanoi"
+    ]
   }
 ]
