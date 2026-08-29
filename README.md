@@ -16,12 +16,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
-## C Program For Tower Of Hanoi
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
-
 ## Combinatorial
 
 | # | My Solution | Difficulty | Language |
@@ -46,12 +40,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
-## Flipkart
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
-
 ## Friends Pairing Problem
 
 | # | My Solution | Difficulty | Language |
@@ -63,12 +51,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
-
-## Make
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## Mathematics
 
@@ -83,23 +65,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
 
-## Microsoft
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
-
 ## Modular Arithmetic
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
-
-## My
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## Number Subsequences String Divisible N
 
@@ -132,23 +102,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
-## Related Interview Experiences
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
-
 ## Topic Tags
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
-
-## Trip
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## Uncategorized
 
