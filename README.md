@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 22 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 12 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 22 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -86,6 +86,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
+## Strings
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+
 ## Uncategorized
 
 | # | My Solution | Difficulty | Language |
@@ -102,4 +108,3 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
 | 11 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
 | 12 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 13 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Unknown | python |
