@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 19 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 20 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 11 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -15,6 +15,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
+## Disjoint Set
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
 
 ## Dynamic Programming
 
@@ -45,6 +51,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+
+## Graph
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
 
 ## Make
 
