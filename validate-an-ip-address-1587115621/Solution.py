@@ -3,18 +3,18 @@ class Solution:
         if s.count('.') != 3:
             return False
     
-        parts = s.split('.')
-        if len(parts) != 4:
+        p = s.split('.')
+        if len(p) != 4:
             return False
     
-        for part in parts:
-            if not part.isdigit():
+        for i in p:
+            if not i.isdigit():
                 return False
     
-            if len(part) > 1 and part[0] == '0':
+            if len(i) > 1 and i[0] == '0':
                 return False
     
-            num = int(part)
+            num = int(i)
             if num < 0 or num > 255:
                 return False
     
