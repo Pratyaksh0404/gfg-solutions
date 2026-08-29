@@ -194,5 +194,17 @@
       "Combinatorial",
       "Mathematics"
     ]
+  },
+  {
+    "slug": "two-numbers-with-odd-occurrences5846",
+    "title": "Two odd Occuring",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "two-numbers-with-odd-occurrences5846/",
+    "url": "https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1",
+    "topics": [
+      "Operators",
+      "Bit Magic"
+    ]
   }
 ]
