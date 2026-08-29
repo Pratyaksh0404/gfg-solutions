@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 20 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 11 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 21 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 11 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -15,6 +15,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
+## Combinatorial
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## Disjoint Set
 
@@ -69,6 +75,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 2 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## MathematicsBinary Search
 
