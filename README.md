@@ -10,6 +10,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 
+## Binary Search
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+
 ## Bit Magic
 
 | # | My Solution | Difficulty | Language |
@@ -44,14 +50,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 2 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-
-## MathematicsBinary Search
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
 | 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 3 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## Modular Arithmetic
 
