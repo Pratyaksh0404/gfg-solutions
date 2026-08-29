@@ -99,7 +99,10 @@
     "language": "python",
     "path": "find-nth-root-of-m5843/",
     "url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
-    "topic": "MathematicsBinary Search"
+    "topics": [
+      "Mathematics",
+      "Binary Search"
+    ]
   },
   {
     "slug": "friends-pairing-problem5425",
