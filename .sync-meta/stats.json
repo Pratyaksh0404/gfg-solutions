@@ -185,5 +185,17 @@
       "Graph",
       "Disjoint Set"
     ]
+  },
+  {
+    "slug": "special-digits--170647",
+    "title": "Numbers with Constraints on Digits and Digit Sum",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "special-digits--170647/",
+    "url": "https://www.geeksforgeeks.org/problems/special-digits--170647/1",
+    "topics": [
+      "Combinatorial",
+      "Mathematics"
+    ]
   }
 ]
