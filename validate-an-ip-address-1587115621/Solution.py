@@ -14,8 +14,8 @@ class Solution:
             if len(i) > 1 and i[0] == '0':
                 return False
     
-            num = int(i)
-            if num < 0 or num > 255:
+            n = int(i)
+            if n < 0 or n > 255:
                 return False
     
         return True
