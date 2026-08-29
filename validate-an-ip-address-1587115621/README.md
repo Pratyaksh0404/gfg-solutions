@@ -30,4 +30,4 @@ Output: true
 ```
 
 **Constraints:**
-1 ≤ |s| ≤ 15
+- `1 ≤ |s| ≤ 15`
