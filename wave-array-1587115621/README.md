@@ -1,4 +1,4 @@
-# Wave Array
+# [Wave Array](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1)
 
 **Difficulty:** Medium
 
