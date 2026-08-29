@@ -25,5 +25,7 @@ Explanation:
 {1,2} : 1 and 2 are paired.
 ```
 
-- `Input: n = 1`
-- `Output: 1`
+```
+Input: n = 1
+Output: 1
+```
