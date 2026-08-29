@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 23 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 14 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 24 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 15 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -52,7 +52,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 2 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
 
 ## Mathematics
 
@@ -97,7 +98,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 2 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Uncategorized
 
