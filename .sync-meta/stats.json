@@ -30,9 +30,13 @@
   {
     "slug": "validate-an-ip-address-1587115621",
     "title": "Validate an IP Address",
-    "difficulty": "Unknown",
+    "difficulty": "Medium",
     "language": "python",
-    "path": "validate-an-ip-address-1587115621/"
+    "path": "validate-an-ip-address-1587115621/",
+    "url": "https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1",
+    "topics": [
+      "Strings"
+    ]
   },
   {
     "slug": "additive-sequence",
