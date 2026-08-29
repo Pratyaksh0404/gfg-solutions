@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 17 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 8 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 18 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 9 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -9,6 +9,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
+## Dynamic Programming
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
 
 ## Expected Complexities
 
@@ -57,6 +63,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
+## Number Subsequences String Divisible N
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
 
 ## Recursion
 
