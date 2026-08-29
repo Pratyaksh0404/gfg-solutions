@@ -74,7 +74,12 @@
     "title": "Wave Array",
     "difficulty": "Medium",
     "language": "python",
-    "path": "wave-array-1587115621/"
+    "path": "wave-array-1587115621/",
+    "url": "https://www.geeksforgeeks.org/problems/wave-array-1587115621/1",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
   },
   {
     "slug": "rearrange-an-array-with-o1-extra-space3142",
