@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 22 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 23 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 14 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -9,7 +9,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 2 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 2 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 3 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -46,6 +47,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
+
+## Hash
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
 
 ## Mathematics
 
