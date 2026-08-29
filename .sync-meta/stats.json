@@ -173,5 +173,17 @@
       "Arrays",
       "Mathematics"
     ]
+  },
+  {
+    "slug": "connecting-the-graph",
+    "title": "Min Edge Movements to Connect a Graph",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "connecting-the-graph/",
+    "url": "https://www.geeksforgeeks.org/problems/connecting-the-graph/1",
+    "topics": [
+      "Graph",
+      "Disjoint Set"
+    ]
   }
 ]
