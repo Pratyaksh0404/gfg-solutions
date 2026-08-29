@@ -218,5 +218,17 @@
       "Arrays",
       "Hash"
     ]
+  },
+  {
+    "slug": "check-if-two-strings-are-k-anagrams-or-not",
+    "title": "k-Anagram",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "check-if-two-strings-are-k-anagrams-or-not/",
+    "url": "https://www.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1",
+    "topics": [
+      "Hash",
+      "Strings"
+    ]
   }
 ]
