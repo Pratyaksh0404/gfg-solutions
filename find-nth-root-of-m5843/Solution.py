@@ -5,15 +5,15 @@ class Solution:
         while low <= high:
             mid = (low + high) // 2
     
-            val = 1
+            v = 1
             for _ in range(n):
-                val *= mid
-                if val > m:
+                v *= mid
+                if v > m:
                     break
     
-            if val == m:
+            if v == m:
                 return mid
-            elif val < m:
+            elif v < m:
                 low = mid + 1
             else:
                 high = mid - 1
