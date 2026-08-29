@@ -1,8 +1,14 @@
 # Solutions
 
-**Total solved:** 18 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 9 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 19 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
+
+## Arrays
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 
 ## C Program For Tower Of Hanoi
 
@@ -22,6 +28,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
+## Fact
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+
 ## Flipkart
 
 | # | My Solution | Difficulty | Language |
@@ -39,6 +51,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
+## Mathematics
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 
 ## MathematicsBinary Search
 
@@ -70,6 +88,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
 
+## Prefix Sum
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+
 ## Recursion
 
 | # | My Solution | Difficulty | Language |
@@ -88,6 +112,20 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
+## Set
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+
+## Set
+Topic Tags
+Related Articles
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 
 ## Topic Tags
 
