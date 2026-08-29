@@ -206,5 +206,17 @@
       "Operators",
       "Bit Magic"
     ]
+  },
+  {
+    "slug": "swapping-pairs-make-sum-equal4142",
+    "title": "Swap Pairs Make Sum Equal",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "swapping-pairs-make-sum-equal4142/",
+    "url": "https://www.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1",
+    "topics": [
+      "Arrays",
+      "Hash"
+    ]
   }
 ]
