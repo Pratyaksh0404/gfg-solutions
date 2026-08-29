@@ -60,12 +60,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
-## Number Subsequences String Divisible N
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
-
 ## Operators
 
 | # | My Solution | Difficulty | Language |
