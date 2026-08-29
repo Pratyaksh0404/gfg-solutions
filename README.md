@@ -40,12 +40,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
-## Fact
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-
 ## Flipkart
 
 | # | My Solution | Difficulty | Language |
@@ -131,20 +125,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
-
-## Set
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-
-## Set
-Topic Tags
-Related Articles
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 
 ## Topic Tags
 
