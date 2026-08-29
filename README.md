@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 21 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 11 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 22 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 12 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -9,6 +9,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+
+## Bit Magic
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
 ## C Program For Tower Of Hanoi
 
@@ -100,6 +106,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
+
+## Operators
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
 ## Prefix Sum
 
