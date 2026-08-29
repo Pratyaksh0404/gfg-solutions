@@ -34,18 +34,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
 
-## Expected Complexities
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
-
-## Friends Pairing Problem
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
-
 ## Graph
 
 | # | My Solution | Difficulty | Language |
@@ -95,18 +83,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 2 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
-
-## Related Articles
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
-
-## Topic Tags
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 
 ## Uncategorized
 
