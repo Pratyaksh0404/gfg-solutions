@@ -9,6 +9,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 2 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -79,6 +80,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 2 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
+## Sorting
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Wave Array](wave-array-1587115621/) | Medium | python |
+
 ## Uncategorized
 
 | # | My Solution | Difficulty | Language |
@@ -96,4 +103,3 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 11 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
 | 12 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
 | 13 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Unknown | python |
-| 14 | [Wave Array](wave-array-1587115621/) | Medium | python |
