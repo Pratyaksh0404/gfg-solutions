@@ -157,5 +157,21 @@
       "Dynamic Programming",
       "Number Subsequences String Divisible N"
     ]
+  },
+  {
+    "slug": "max-value-after-m-range-operation4300",
+    "title": "Max After m Range Increments",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "max-value-after-m-range-operation4300/",
+    "url": "https://www.geeksforgeeks.org/problems/max-value-after-m-range-operation4300/1",
+    "topics": [
+      "Set\nTopic Tags\nRelated Articles",
+      "Set",
+      "Fact",
+      "Prefix Sum",
+      "Arrays",
+      "Mathematics"
+    ]
   }
 ]
