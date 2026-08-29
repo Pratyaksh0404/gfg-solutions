@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium
 
-You are given 2 numbers **n and m,** the task is to find **n√m** (n^th root of m). If the root is not integer then return **-1**.
+You are given 2 numbers **n and m,** the task is to find **^n√m** (n^th root of m). If the root is not integer then return **-1**.
 
 **Examples :**
 
