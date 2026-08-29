@@ -145,5 +145,17 @@
       "Related Interview Experiences",
       "C Program For Tower Of Hanoi"
     ]
+  },
+  {
+    "slug": "number-of-subsequences-in-a-string-divisible-by-n5947",
+    "title": "Count Subsequences Divisible by n",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "number-of-subsequences-in-a-string-divisible-by-n5947/",
+    "url": "https://www.geeksforgeeks.org/problems/number-of-subsequences-in-a-string-divisible-by-n5947/1",
+    "topics": [
+      "Dynamic Programming",
+      "Number Subsequences String Divisible N"
+    ]
   }
 ]
