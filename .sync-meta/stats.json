@@ -230,5 +230,17 @@
       "Hash",
       "Strings"
     ]
+  },
+  {
+    "slug": "find-marks-from-ranks",
+    "title": "Marks from Ranks",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "find-marks-from-ranks/",
+    "url": "https://www.geeksforgeeks.org/problems/find-marks-from-ranks/1",
+    "topics": [
+      "Arrays",
+      "Searching"
+    ]
   }
 ]
