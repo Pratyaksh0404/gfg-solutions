@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 24 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 15 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 25 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 16 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -8,9 +8,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 2 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 3 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 1 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 3 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 4 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -87,6 +88,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 2 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+
+## Searching
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
 
 ## Sorting
 
