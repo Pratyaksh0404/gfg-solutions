@@ -242,5 +242,16 @@
       "Arrays",
       "Searching"
     ]
+  },
+  {
+    "slug": "game-of-xor1541",
+    "title": "Game of XOR",
+    "difficulty": "Unknown",
+    "language": "python",
+    "path": "game-of-xor1541/",
+    "url": "https://www.geeksforgeeks.org/problems/game-of-xor1541/1",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
