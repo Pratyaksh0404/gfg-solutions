@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 26 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 16 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 27 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -42,6 +42,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
+| 2 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
 
 ## Graph
 
