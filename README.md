@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 30 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 31 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -125,7 +125,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
 | 8 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 9 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 10 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 11 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 12 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
-| 13 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 10 | [Minimum Platforms](minimum-platforms-1587115620/) | Unknown | python |
+| 11 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 12 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 13 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 14 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
