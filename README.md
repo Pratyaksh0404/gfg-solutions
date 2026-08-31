@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 29 &nbsp;|&nbsp; 🟢 Easy: 4 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 30 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -65,7 +65,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Armstrong Numbers](armstrong-numbers2727/) | Easy | python |
 | 3 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
 | 4 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 5 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 5 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 6 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## Modular Arithmetic
 
