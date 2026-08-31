@@ -253,5 +253,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimum-time1238",
+    "title": "Minimum Cost for n Characters",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "minimum-time1238/",
+    "url": "https://www.geeksforgeeks.org/problems/minimum-time1238/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   }
 ]
