@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 32 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 33 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 18 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -50,12 +50,24 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
 
+## Greedy
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
+
 ## Hash
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 2 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+
+## Heap
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
 
 ## Mathematics
 
