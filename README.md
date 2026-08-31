@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 27 &nbsp;|&nbsp; 🟢 Easy: 2 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 28 &nbsp;|&nbsp; 🟢 Easy: 3 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -61,9 +61,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 3 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 1 | [Arithmetic Number](arithmetic-number2815/) | Easy | python |
+| 2 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 3 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 4 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## Modular Arithmetic
 
