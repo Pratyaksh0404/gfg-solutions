@@ -275,5 +275,16 @@
     "topics": [
       "Mathematics"
     ]
+  },
+  {
+    "slug": "armstrong-numbers2727",
+    "title": "Armstrong Numbers",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "armstrong-numbers2727/",
+    "url": "https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1",
+    "topics": [
+      "Mathematics"
+    ]
   }
 ]
