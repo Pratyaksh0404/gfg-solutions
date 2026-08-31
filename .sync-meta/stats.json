@@ -286,5 +286,16 @@
     "topics": [
       "Mathematics"
     ]
+  },
+  {
+    "slug": "series-gp4646",
+    "title": "N-th Term of GP",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "series-gp4646/",
+    "url": "https://www.geeksforgeeks.org/problems/series-gp4646/1",
+    "topics": [
+      "Mathematics"
+    ]
   }
 ]
