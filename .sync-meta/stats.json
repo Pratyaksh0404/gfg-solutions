@@ -264,5 +264,16 @@
     "topics": [
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "arithmetic-number2815",
+    "title": "Arithmetic Number",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "arithmetic-number2815/",
+    "url": "https://www.geeksforgeeks.org/problems/arithmetic-number2815/1",
+    "topics": [
+      "Mathematics"
+    ]
   }
 ]
