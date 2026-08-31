@@ -312,12 +312,12 @@
   {
     "slug": "circular-tour-1587115620",
     "title": "Gas Station",
-    "difficulty": "Unknown",
+    "difficulty": "Medium",
     "language": "python",
     "path": "circular-tour-1587115620/",
     "url": "https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1",
     "topics": [
-      "Uncategorized"
+      "Greedy"
     ]
   },
   {
