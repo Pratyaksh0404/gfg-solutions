@@ -370,5 +370,16 @@
     "topics": [
       "Arrays"
     ]
+  },
+  {
+    "slug": "search-in-linked-list-1664434326",
+    "title": "Search in Linked List",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "search-in-linked-list-1664434326/",
+    "url": "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1",
+    "topics": [
+      "Linked List"
+    ]
   }
 ]
