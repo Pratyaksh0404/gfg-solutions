@@ -342,5 +342,19 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "number-of-palindromic-strings2706",
+    "title": "Count Palindromic Strings with Constraints",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "number-of-palindromic-strings2706/",
+    "url": "https://www.geeksforgeeks.org/problems/number-of-palindromic-strings2706/1",
+    "topics": [
+      "Strings",
+      "Dynamic Programming",
+      "Mathematics",
+      "Combinatorial"
+    ]
   }
 ]
