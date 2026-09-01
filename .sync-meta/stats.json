@@ -91,7 +91,10 @@
     "difficulty": "Medium",
     "language": "python",
     "path": "rearrange-an-array-with-o1-extra-space3142/",
-    "url": "https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1"
+    "url": "https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1",
+    "topics": [
+      "Arrays"
+    ]
   },
   {
     "slug": "buying-vegetables0016",
