@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 34 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 19 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 35 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -29,7 +29,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 2 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## Disjoint Set
 
@@ -41,8 +42,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
-| 2 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
+| 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 2 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
+| 3 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
 
 ## Graph
 
@@ -76,10 +78,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Arithmetic Number](arithmetic-number2815/) | Easy | python |
 | 2 | [Armstrong Numbers](armstrong-numbers2727/) | Easy | python |
-| 3 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 4 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 5 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 6 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 3 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 4 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 5 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 6 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 7 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## Modular Arithmetic
 
@@ -122,8 +125,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 2 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 2 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 3 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Uncategorized
 
