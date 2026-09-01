@@ -8,10 +8,14 @@
   },
   {
     "slug": "factorial5739",
-    "title": "factorial5739",
-    "difficulty": "Unknown",
-    "language": "text",
-    "path": "factorial5739/"
+    "title": "Factorial",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "factorial5739/",
+    "url": "https://www.geeksforgeeks.org/problems/factorial5739/1",
+    "topics": [
+      "Mathematics"
+    ]
   },
   {
     "slug": "reverse-digit0316",
