@@ -1,8 +1,8 @@
-# Check Sum String
+# [Check Sum String](https://www.geeksforgeeks.org/problems/additive-sequence/1)
 
 **Difficulty:** Medium
 
-Given a string **s**, determine whether it represents a sum string****or not. A string is said to be a sum string if its digits can form a sequence of numbers where each number is equal to the sum of the previous two numbers.
+Given a string **s**, determine whether it represents a sum string****or not. A string is said to be a sum string if its digits can form a sequence of numbers where each number is equal to the sum of the previous two numbers.
 
 **Note:**A valid sum string must contain at least three numbers.
 
@@ -31,5 +31,5 @@ At this point, there is no "13" present in the remaining digits "815". Hence, th
 ```
 
 **Constraints:**
-3 ≤ s.size() ≤ 200
-1 ≤ digits of string ≤ 9
+- `3 ≤ s.size() ≤ 200`
+- `1 ≤ digits of string ≤ 9`
