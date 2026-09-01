@@ -12,7 +12,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 3 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
 | 4 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 5 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 5 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 6 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -148,4 +149,3 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
 | 13 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
 | 14 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
-| 15 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
