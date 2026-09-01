@@ -356,5 +356,16 @@
       "Mathematics",
       "Combinatorial"
     ]
+  },
+  {
+    "slug": "pairs-with-difference-less-than-k1348",
+    "title": "Pairs with Less Than K Diff",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "pairs-with-difference-less-than-k1348/",
+    "url": "https://www.geeksforgeeks.org/problems/pairs-with-difference-less-than-k1348/1",
+    "topics": [
+      "Arrays"
+    ]
   }
 ]
