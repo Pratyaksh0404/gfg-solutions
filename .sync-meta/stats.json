@@ -384,5 +384,17 @@
     "topics": [
       "Linked List"
     ]
+  },
+  {
+    "slug": "c-program-to-remove-consonants-from-a-string1945",
+    "title": "Remove Consonants",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "c-program-to-remove-consonants-from-a-string1945/",
+    "url": "https://www.geeksforgeeks.org/problems/c-program-to-remove-consonants-from-a-string1945/1",
+    "topics": [
+      "Searching",
+      "Strings"
+    ]
   }
 ]
