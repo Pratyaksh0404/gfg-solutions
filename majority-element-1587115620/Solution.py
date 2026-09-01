@@ -2,7 +2,6 @@ class Solution:
     def majorityElement(self, arr):
         count = 0
         a = None
-
         for num in arr:
             if count == 0:
                 a = num
