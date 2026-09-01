@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -36,6 +36,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 2 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+
+## DFS
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Medium | python |
 
 ## Disjoint Set
 
@@ -97,6 +103,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [N-th Term of GP](series-gp4646/) | Easy | python |
 | 8 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
+## Matrix
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Medium | python |
+
 ## Modular Arithmetic
 
 | # | My Solution | Difficulty | Language |
@@ -122,6 +134,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Check Sum String](additive-sequence/) | Medium | python |
 | 2 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 3 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+| 4 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Medium | python |
 
 ## Searching
 
@@ -151,13 +164,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Find the string in grid Solution - Java](find-the-string-in-grid0111/) | Unknown | text |
-| 2 | [Game of XOR](game-of-xor1541/) | Unknown | python |
-| 3 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 4 | [Majority Element](majority-element-1587115620/) | Unknown | python |
-| 5 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
-| 6 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 7 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 8 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 9 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 10 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 1 | [Game of XOR](game-of-xor1541/) | Unknown | python |
+| 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
+| 3 | [Majority Element](majority-element-1587115620/) | Unknown | python |
+| 4 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
+| 5 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 6 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 7 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 8 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 9 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
