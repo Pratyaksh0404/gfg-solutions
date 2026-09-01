@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 37 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 21 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 21 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -125,6 +125,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 2 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
 
 ## Sorting
 
@@ -139,7 +140,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 2 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 3 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 3 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 4 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Uncategorized
 
