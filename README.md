@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 36 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 37 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -73,6 +73,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
+
+## Linked List
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Search in Linked List](search-in-linked-list-1664434326/) | Easy | python |
 
 ## Mathematics
 
