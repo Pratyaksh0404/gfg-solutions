@@ -304,12 +304,15 @@
   {
     "slug": "minimum-platforms-1587115620",
     "title": "Minimum Platforms",
-    "difficulty": "Unknown",
+    "difficulty": "Medium",
     "language": "python",
     "path": "minimum-platforms-1587115620/",
     "url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
     "topics": [
-      "Uncategorized"
+      "Arrays",
+      "Greedy",
+      "Sorting",
+      "Binary Search"
     ]
   },
   {
