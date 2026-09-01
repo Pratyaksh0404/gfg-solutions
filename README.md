@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 37 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 37 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 21 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -10,16 +10,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
 | 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 3 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 4 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 5 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 6 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 4 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 5 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 6 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 7 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 2 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
 
 ## Bit Magic
 
@@ -60,6 +62,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
 | 2 | [Gas Station](circular-tour-1587115620/) | Medium | python |
+| 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
 
 ## Hash
 
@@ -127,7 +130,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 1 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 2 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Strings
 
@@ -151,7 +155,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
 | 9 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 10 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 11 | [Minimum Platforms](minimum-platforms-1587115620/) | Unknown | python |
-| 12 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 13 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 14 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 11 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 12 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 13 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
