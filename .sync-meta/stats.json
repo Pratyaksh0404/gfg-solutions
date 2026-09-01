@@ -47,7 +47,12 @@
     "title": "Check Sum String",
     "difficulty": "Medium",
     "language": "python",
-    "path": "additive-sequence/"
+    "path": "additive-sequence/",
+    "url": "https://www.geeksforgeeks.org/problems/additive-sequence/1",
+    "topics": [
+      "Strings",
+      "Recursion"
+    ]
   },
   {
     "slug": "majority-vote",
