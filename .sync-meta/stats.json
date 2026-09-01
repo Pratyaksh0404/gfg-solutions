@@ -1,10 +1,16 @@
 [
   {
     "slug": "find-the-string-in-grid0111",
-    "title": "Find the string in grid Solution - Java",
-    "difficulty": "Unknown",
-    "language": "text",
-    "path": "find-the-string-in-grid0111/"
+    "title": "Word in Grid - All Occurrences",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "find-the-string-in-grid0111/",
+    "url": "https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1",
+    "topics": [
+      "Recursion",
+      "DFS",
+      "Matrix"
+    ]
   },
   {
     "slug": "factorial5739",
