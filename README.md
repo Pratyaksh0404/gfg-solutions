@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 35 &nbsp;|&nbsp; 🟢 Easy: 5 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 36 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -10,8 +10,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
 | 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 3 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 4 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 3 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 4 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 5 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
