@@ -1,4 +1,4 @@
-# Transform Array In-Place
+# [Transform Array In-Place](https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 
 **Difficulty:** Medium
 
@@ -22,5 +22,5 @@ Explanation: The original array is [4, 0, 2, 1, 3]. Each element is replaced by 
 ```
 
 **Constraints:**
-1 ≤ n ≤ 4*10^4
-0 ≤ arr[i] < n
+- `1 ≤ n ≤ 4*10^4`
+- `0 ≤ arr[i] < n`
