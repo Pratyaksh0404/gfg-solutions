@@ -341,12 +341,14 @@
   {
     "slug": "majority-element-1587115620",
     "title": "Majority Element",
-    "difficulty": "Unknown",
+    "difficulty": "Medium",
     "language": "python",
     "path": "majority-element-1587115620/",
     "url": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/1",
     "topics": [
-      "Uncategorized"
+      "Arrays",
+      "Searching",
+      "Greedy"
     ]
   },
   {
