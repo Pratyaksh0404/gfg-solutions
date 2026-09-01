@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 21 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -27,7 +27,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
+| 1 | [Finding Profession](finding-profession3834/) | Medium | python |
+| 2 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
 ## Combinatorial
 
@@ -151,13 +152,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find the string in grid Solution - Java](find-the-string-in-grid0111/) | Unknown | text |
-| 2 | [Finding Profession](finding-profession3834/) | Unknown | python |
-| 3 | [Game of XOR](game-of-xor1541/) | Unknown | python |
-| 4 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 5 | [Majority Element](majority-element-1587115620/) | Unknown | python |
-| 6 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
-| 7 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 8 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 9 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 10 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 11 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 2 | [Game of XOR](game-of-xor1541/) | Unknown | python |
+| 3 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
+| 4 | [Majority Element](majority-element-1587115620/) | Unknown | python |
+| 5 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
+| 6 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 7 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 8 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 9 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 10 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
