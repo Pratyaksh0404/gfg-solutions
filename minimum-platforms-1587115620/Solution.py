@@ -3,13 +3,13 @@ class Solution:
         n = len(arr)
         ans = 0
         maxi = max(dep)
-        a = [0]*(maxi+2)
+        a = [0]*(maxi + 2)
+        
         for i in range(n):
             a[arr[i]] += 1
-            a[dep[i]+1] -= 1
-
+            a[dep[i] + 1] -= 1
         c = 0
-        for i in range(maxi+2):
+        for i in range(maxi + 2):
             c += a[i]
             ans = max(ans,c)
 
