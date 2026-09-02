@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 39 &nbsp;|&nbsp; 🟢 Easy: 8 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -77,6 +77,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 2 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 3 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
 
 ## Heap
 
