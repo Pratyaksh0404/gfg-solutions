@@ -411,5 +411,16 @@
       "Searching",
       "Strings"
     ]
+  },
+  {
+    "slug": "unoccupied-computers-1646661078",
+    "title": "Unoccupied Computers",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "unoccupied-computers-1646661078/",
+    "url": "https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1",
+    "topics": [
+      "Hash"
+    ]
   }
 ]
