@@ -448,12 +448,12 @@
   {
     "slug": "left-view-of-binary-tree",
     "title": "Left View of Binary Tree",
-    "difficulty": "Unknown",
+    "difficulty": "Easy",
     "language": "python",
     "path": "left-view-of-binary-tree/",
     "url": "https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
     "topics": [
-      "Uncategorized"
+      "Tree"
     ]
   }
 ]
