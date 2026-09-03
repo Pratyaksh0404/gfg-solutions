@@ -433,5 +433,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "size-of-binary-tree",
+    "title": "Size of Binary Tree",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "size-of-binary-tree/",
+    "url": "https://www.geeksforgeeks.org/problems/size-of-binary-tree/1",
+    "topics": [
+      "Tree"
+    ]
   }
 ]
