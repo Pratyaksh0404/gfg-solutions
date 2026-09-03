@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 40 &nbsp;|&nbsp; 🟢 Easy: 8 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 41 &nbsp;|&nbsp; 🟢 Easy: 8 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -160,6 +160,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 4 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
 | 5 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+
+## Tree
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
 
 ## Uncategorized
 
