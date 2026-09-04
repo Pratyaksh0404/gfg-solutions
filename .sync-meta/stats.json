@@ -35,7 +35,11 @@
     "title": "Move all negative elements to end",
     "difficulty": "Easy",
     "language": "python",
-    "path": "move-all-negative-elements-to-end1813/"
+    "path": "move-all-negative-elements-to-end1813/",
+    "url": "https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1",
+    "topics": [
+      "Arrays"
+    ]
   },
   {
     "slug": "validate-an-ip-address-1587115621",
