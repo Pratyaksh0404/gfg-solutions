@@ -455,5 +455,16 @@
     "topics": [
       "Tree"
     ]
+  },
+  {
+    "slug": "bird-and-maximum-fruit-gathering--170645",
+    "title": "Bird and Max Fruit Gathering",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "bird-and-maximum-fruit-gathering--170645/",
+    "url": "https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering--170645/1",
+    "topics": [
+      "Arrays"
+    ]
   }
 ]
