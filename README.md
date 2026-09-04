@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 24 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -9,14 +9,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
-| 2 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 3 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 4 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 5 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 6 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 7 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 8 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 9 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 2 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 3 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 4 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 5 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 6 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 7 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 8 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 9 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 10 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -71,7 +72,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
 | 2 | [Gas Station](circular-tour-1587115620/) | Medium | python |
-| 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 3 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 4 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
 
 ## Hash
 
@@ -143,8 +145,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 2 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 1 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 2 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 3 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
 
 ## Sorting
 
@@ -176,10 +179,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Game of XOR](game-of-xor1541/) | Unknown | python |
 | 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 3 | [Majority Element](majority-element-1587115620/) | Unknown | python |
-| 4 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
-| 5 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Unknown | python |
-| 6 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 7 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 8 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 9 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 3 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
+| 4 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Unknown | python |
+| 5 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 6 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 7 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 8 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
