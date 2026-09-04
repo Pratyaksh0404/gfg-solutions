@@ -1,4 +1,4 @@
-# Negative Weight Cycle
+# [Negative Weight Cycle](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1)
 
 **Difficulty:** Medium
 
@@ -13,17 +13,17 @@ Each edge is represented as: [u, v, w], where there is a directed edge from vert
 ```
 Input: V = 4, E = 4, edges[][] = [[0, 3, 6], [1, 0, 4], [1, 2, 6], [3, 1, 2]]
 Output: false
-Explanation: Cycle 1 -> 0 -> 3 -> 1 has total weight 6 + 4 + 2 = 12, which is positive, so no negative weight cycle exists.
+- `Explanation: Cycle 1 -> 0 -> 3 -> 1 has total weight 6 + 4 + 2 = 12, which is positive, so no negative weight cycle exists.`
 ```
 
 ```
 Input: V = 4, E = 4, edges[][] = [[1, 0, 4], [3, 1, -2], [1, 2, -6], [2, 3, 5]]
 Output: true
-Explanation: There is a cycle 1 -> 2 -> 3 -> 1 with total weight -3, which is negative, so a negative weight cycle exists.
+- `Explanation: There is a cycle 1 -> 2 -> 3 -> 1 with total weight -3, which is negative, so a negative weight cycle exists.`
 ```
 
- **Constraints:**
-1 ≤ V ≤ 10^3
-0 ≤ E ≤ 10^5
-0 ≤ u, v < V
--10^6 ≤ w ≤ 10^6
+**Constraints:**
+- `1 ≤ V ≤ 10^3`
+- `0 ≤ E ≤ 10^5`
+- `0 ≤ u, v < V`
+- `-10^6 ≤ w ≤ 10^6`
