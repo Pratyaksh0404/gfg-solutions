@@ -95,7 +95,12 @@
     "title": "Largest Rectangle with Column Swaps",
     "difficulty": "Hard",
     "language": "python",
-    "path": "find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/"
+    "path": "find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/",
+    "url": "https://www.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1",
+    "topics": [
+      "Arrays",
+      "Matrix"
+    ]
   },
   {
     "slug": "wave-array-1587115621",
