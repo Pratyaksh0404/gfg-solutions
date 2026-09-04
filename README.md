@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 42 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -8,13 +8,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 4 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 5 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 6 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 7 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 1 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
+| 2 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 3 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 4 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 5 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 6 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 7 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 8 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
