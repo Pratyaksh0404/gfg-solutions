@@ -443,12 +443,13 @@
   {
     "slug": "modify-array-to-maximize-sum-of-adjacent-differences1729",
     "title": "Max Adjacent Diffs Sum with 1 Replacements",
-    "difficulty": "Unknown",
+    "difficulty": "Medium",
     "language": "python",
     "path": "modify-array-to-maximize-sum-of-adjacent-differences1729/",
     "url": "https://www.geeksforgeeks.org/problems/modify-array-to-maximize-sum-of-adjacent-differences1729/1",
     "topics": [
-      "Uncategorized"
+      "Dynamic Programming",
+      "Arrays"
     ]
   },
   {
