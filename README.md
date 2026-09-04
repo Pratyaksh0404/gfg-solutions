@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 24 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 25 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -31,7 +31,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Finding Profession](finding-profession3834/) | Medium | python |
-| 2 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
+| 2 | [Game of XOR](game-of-xor1541/) | Medium | python |
+| 3 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
 ## Combinatorial
 
@@ -104,9 +105,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 4 | [Factorial](factorial5739/) | Basic | python |
 | 5 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 6 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 7 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 8 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 6 | [Game of XOR](game-of-xor1541/) | Medium | python |
+| 7 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 8 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 9 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## Matrix
 
@@ -177,11 +179,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Game of XOR](game-of-xor1541/) | Unknown | python |
-| 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 3 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
-| 4 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Unknown | python |
-| 5 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 6 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 7 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 8 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 1 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
+| 2 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
+| 3 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Unknown | python |
+| 4 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 5 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 6 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 7 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
