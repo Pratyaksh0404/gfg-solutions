@@ -70,6 +70,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
+| 2 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
 
 ## Greedy
 
@@ -187,5 +188,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 2 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 3 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 4 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 3 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
