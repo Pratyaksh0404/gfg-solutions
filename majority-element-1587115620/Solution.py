@@ -1,15 +1,15 @@
 class Solution:
     def majorityElement(self, arr):
-        count = 0
+        c = 0
         a = None
         for num in arr:
-            if count == 0:
+            if c == 0:
                 a = num
-                count = 1
+                c = 1
             elif num == a:
-                count += 1
+                c += 1
             else:
-                count -= 1
+                c -= 1
 
         if arr.count(a) > len(arr) // 2:
             return a
