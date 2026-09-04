@@ -25,10 +25,14 @@
   },
   {
     "slug": "reverse-digit0316",
-    "title": "reverse-digit0316",
-    "difficulty": "Unknown",
-    "language": "text",
-    "path": "reverse-digit0316/"
+    "title": "Reverse Digits",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "reverse-digit0316/",
+    "url": "https://www.geeksforgeeks.org/problems/reverse-digit0316/1",
+    "topics": [
+      "Mathematics"
+    ]
   },
   {
     "slug": "move-all-negative-elements-to-end1813",
