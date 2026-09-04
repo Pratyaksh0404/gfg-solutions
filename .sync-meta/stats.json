@@ -67,9 +67,14 @@
   {
     "slug": "majority-vote",
     "title": "Majority Element - More Than n/3",
-    "difficulty": "Unknown",
+    "difficulty": "Medium",
     "language": "python",
-    "path": "majority-vote/"
+    "path": "majority-vote/",
+    "url": "https://www.geeksforgeeks.org/problems/majority-vote/1",
+    "topics": [
+      "Arrays",
+      "Hash"
+    ]
   },
   {
     "slug": "morning-assembly3038",
