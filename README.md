@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 25 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 26 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -10,14 +10,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
 | 2 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 3 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 4 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 5 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 6 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 7 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 8 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 9 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 10 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 3 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 4 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 5 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 6 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 7 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 8 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 9 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 10 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 11 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -81,8 +82,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 2 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 3 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
+| 2 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 3 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 4 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
 
 ## Heap
 
@@ -180,9 +182,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 2 | [Majority Element - More Than n/3](majority-vote/) | Unknown | python |
-| 3 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Unknown | python |
-| 4 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 5 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 6 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 7 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 2 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Unknown | python |
+| 3 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 4 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 5 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 6 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
