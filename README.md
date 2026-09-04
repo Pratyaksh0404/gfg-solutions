@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 26 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 27 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -13,13 +13,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Majority Element](majority-element-1587115620/) | Medium | python |
 | 4 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
 | 5 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 6 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 7 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 8 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 9 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 10 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 11 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 12 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 6 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 7 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 8 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 9 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 10 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 11 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 12 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 13 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -61,7 +62,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 2 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
-| 3 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
+| 3 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 4 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
 
 ## Graph
 
@@ -183,8 +185,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Unknown | python |
-| 2 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 3 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 4 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 5 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
+| 1 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 2 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 3 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 4 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
