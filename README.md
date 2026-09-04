@@ -115,6 +115,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 8 | [N-th Term of GP](series-gp4646/) | Easy | python |
 | 9 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 10 | [Reverse Digits](reverse-digit0316/) | Basic | python |
 
 ## Matrix
 
@@ -188,4 +189,3 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 2 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
-| 3 | [reverse-digit0316](reverse-digit0316/) | Unknown | text |
