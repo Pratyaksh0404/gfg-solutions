@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 27 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 44 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 28 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -10,17 +10,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
 | 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 3 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 4 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 5 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 6 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 7 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 8 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 9 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 10 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 11 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 12 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 13 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 3 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Medium | python |
+| 4 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 5 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 6 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 7 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 8 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 9 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 10 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 11 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 12 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 13 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 14 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
