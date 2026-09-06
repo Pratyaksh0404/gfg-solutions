@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 45 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 29 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 45 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 29 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -191,4 +191,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 1 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Unknown | python |
