@@ -1,4 +1,4 @@
-# Minimum Cost Selection
+# [Minimum Cost Selection](https://www.geeksforgeeks.org/problems/buying-vegetables0016/1)
 
 **Difficulty:** Medium
 
