@@ -66,6 +66,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
 | 3 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
 | 4 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
+| 5 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 
 ## Graph
 
@@ -190,5 +191,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 2 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
+| 1 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Easy | python |
