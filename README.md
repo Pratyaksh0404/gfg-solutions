@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 44 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 28 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 45 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 29 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -36,7 +36,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Finding Profession](finding-profession3834/) | Medium | python |
 | 2 | [Game of XOR](game-of-xor1541/) | Medium | python |
-| 3 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
+| 3 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 4 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
 ## Combinatorial
 
@@ -117,6 +118,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [N-th Term of GP](series-gp4646/) | Easy | python |
 | 9 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 | 10 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 11 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
 
 ## Matrix
 
