@@ -139,7 +139,10 @@
     "difficulty": "Medium",
     "language": "python",
     "path": "buying-vegetables0016/",
-    "url": "https://www.geeksforgeeks.org/problems/buying-vegetables0016/1"
+    "url": "https://www.geeksforgeeks.org/problems/buying-vegetables0016/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   },
   {
     "slug": "find-nth-root-of-m5843",
