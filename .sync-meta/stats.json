@@ -503,5 +503,17 @@
     "topics": [
       "Arrays"
     ]
+  },
+  {
+    "slug": "sum-of-products5049",
+    "title": "Sum of Pairwise ANDs",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "sum-of-products5049/",
+    "url": "https://www.geeksforgeeks.org/problems/sum-of-products5049/1",
+    "topics": [
+      "Mathematics",
+      "Bit Magic"
+    ]
   }
 ]
