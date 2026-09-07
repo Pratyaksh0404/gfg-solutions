@@ -83,12 +83,14 @@
   {
     "slug": "morning-assembly3038",
     "title": "Minimum Moves to Sort Permutation",
-    "difficulty": "Unknown",
+    "difficulty": "Medium",
     "language": "python",
     "path": "morning-assembly3038/",
     "url": "https://www.geeksforgeeks.org/problems/morning-assembly3038/1",
     "topics": [
-      "Uncategorized"
+      "Hash",
+      "Dynamic Programming",
+      "Arrays"
     ]
   },
   {
