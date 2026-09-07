@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 46 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 29 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 46 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -17,12 +17,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
 | 8 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 9 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 10 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 11 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 12 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 13 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 14 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 15 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 10 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 11 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 12 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 13 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 14 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 15 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 16 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -69,6 +70,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
 | 5 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 6 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 7 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
 
 ## Graph
 
@@ -92,8 +94,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 2 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 3 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 4 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
+| 3 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 4 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 5 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
 
 ## Heap
 
@@ -188,9 +191,3 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
 | 2 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
-
-## Uncategorized
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Unknown | python |
