@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 46 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 47 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -71,6 +71,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 6 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
 | 7 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 8 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
 
 ## Graph
 
@@ -138,6 +139,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+| 2 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
 
 ## Operators
 
