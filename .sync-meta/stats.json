@@ -536,5 +536,17 @@
       "Dynamic Programming",
       "Arrays"
     ]
+  },
+  {
+    "slug": "count-in-array2138",
+    "title": "Sequences where Adjacent Divide",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "count-in-array2138/",
+    "url": "https://www.geeksforgeeks.org/problems/count-in-array2138/1",
+    "topics": [
+      "Dynamic Programming",
+      "Modular Arithmetic"
+    ]
   }
 ]
