@@ -522,5 +522,17 @@
       "Mathematics",
       "Bit Magic"
     ]
+  },
+  {
+    "slug": "minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617",
+    "title": "Minimum Elements Outside Subsequences",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/",
+    "url": "https://www.geeksforgeeks.org/problems/minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/1",
+    "topics": [
+      "Dynamic Programming",
+      "Arrays"
+    ]
   }
 ]
