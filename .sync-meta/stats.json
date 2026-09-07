@@ -548,5 +548,16 @@
       "Dynamic Programming",
       "Modular Arithmetic"
     ]
+  },
+  {
+    "slug": "minimum-steps-to-get-desired-array5519",
+    "title": "Minimum Increment or Double Operations to Convert",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "minimum-steps-to-get-desired-array5519/",
+    "url": "https://www.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1",
+    "topics": [
+      "Arrays"
+    ]
   }
 ]
