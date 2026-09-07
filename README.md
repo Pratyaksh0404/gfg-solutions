@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 47 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 48 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -17,13 +17,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
 | 8 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 9 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 10 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 11 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 12 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 13 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 14 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 15 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 16 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 10 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 11 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 12 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 13 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 14 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 15 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 16 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 17 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
