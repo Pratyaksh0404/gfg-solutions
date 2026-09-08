@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 48 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 48 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -48,12 +48,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 2 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-
-## DFS
-
-| # | My Solution | Difficulty | Language |
-|---|---|---|---|
-| 1 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Medium | python |
 
 ## Disjoint Set
 
@@ -133,7 +127,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 2 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Medium | python |
 
 ## Modular Arithmetic
 
@@ -161,7 +154,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Check Sum String](additive-sequence/) | Medium | python |
 | 2 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 3 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
-| 4 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Medium | python |
 
 ## Searching
 
@@ -194,3 +186,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
 | 2 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
+
+## Uncategorized
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
