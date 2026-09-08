@@ -2,14 +2,12 @@
   {
     "slug": "find-the-string-in-grid0111",
     "title": "Word in Grid - All Occurrences",
-    "difficulty": "Medium",
+    "difficulty": "Unknown",
     "language": "python",
     "path": "find-the-string-in-grid0111/",
     "url": "https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1",
     "topics": [
-      "Recursion",
-      "DFS",
-      "Matrix"
+      "Uncategorized"
     ]
   },
   {
