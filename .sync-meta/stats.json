@@ -557,5 +557,17 @@
     "topics": [
       "Arrays"
     ]
+  },
+  {
+    "slug": "biggest-integer-having-maximum-digit-sum1704",
+    "title": "Max Digit Sum Number in 1 to n",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "biggest-integer-having-maximum-digit-sum1704/",
+    "url": "https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1",
+    "topics": [
+      "Mathematics",
+      "Numbers"
+    ]
   }
 ]
