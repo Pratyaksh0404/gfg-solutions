@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 48 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 49 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -117,10 +117,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
 | 6 | [Game of XOR](game-of-xor1541/) | Medium | python |
 | 7 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 8 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 9 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 10 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 11 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 8 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 9 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 10 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 11 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 12 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
 
 ## Matrix
 
@@ -134,6 +135,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 2 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+
+## Numbers
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
 
 ## Operators
 
