@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 52 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 53 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -22,11 +22,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
 | 13 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
 | 14 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 15 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 16 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 17 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 18 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 19 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 15 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 16 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 17 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 18 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 19 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 20 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -127,10 +128,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 8 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
 | 9 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 10 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 11 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 12 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 13 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 10 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 11 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 12 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 13 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 14 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
 
 ## Matrix
 
@@ -194,9 +196,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 3 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 4 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 5 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 6 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 7 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 5 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 6 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 7 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 8 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
