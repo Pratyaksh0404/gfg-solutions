@@ -593,5 +593,17 @@
       "Arrays",
       "Strings"
     ]
+  },
+  {
+    "slug": "longest-common-prefix-in-an-array5129",
+    "title": "Longest Common Prefix of Strings",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "longest-common-prefix-in-an-array5129/",
+    "url": "https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
+    "topics": [
+      "Arrays",
+      "Strings"
+    ]
   }
 ]
