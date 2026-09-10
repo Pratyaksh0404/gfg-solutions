@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 50 &nbsp;|&nbsp; 🟢 Easy: 11 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 51 &nbsp;|&nbsp; 🟢 Easy: 12 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -22,9 +22,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
 | 13 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
 | 14 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 15 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 16 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 17 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 15 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 16 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 17 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 18 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -192,7 +193,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 3 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 4 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 5 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 5 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 6 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
