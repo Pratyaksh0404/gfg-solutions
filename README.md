@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 49 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 50 &nbsp;|&nbsp; 🟢 Easy: 11 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -68,6 +68,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
 | 8 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
 
+## Factorization
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+
 ## Graph
 
 | # | My Solution | Difficulty | Language |
@@ -120,8 +126,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
 | 9 | [N-th Term of GP](series-gp4646/) | Easy | python |
 | 10 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 11 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 12 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 11 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 12 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 13 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
 
 ## Matrix
 
