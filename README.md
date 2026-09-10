@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 51 &nbsp;|&nbsp; 🟢 Easy: 12 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 52 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -10,22 +10,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
 | 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 3 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Medium | python |
-| 4 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 5 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 6 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 7 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 8 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 9 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 10 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 11 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 12 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 13 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 14 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 15 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 16 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 17 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 18 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 3 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 4 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Medium | python |
+| 5 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 6 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 7 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 8 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 9 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 10 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 11 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 12 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 13 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 14 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 15 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 16 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 17 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 18 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 19 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -192,9 +193,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Check Sum String](additive-sequence/) | Medium | python |
 | 2 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 3 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 4 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 5 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 6 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 4 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 5 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 6 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 7 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
