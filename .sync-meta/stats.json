@@ -569,5 +569,17 @@
       "Mathematics",
       "Numbers"
     ]
+  },
+  {
+    "slug": "possible-pairs1550",
+    "title": "Pairs with Given GCD and LCM",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "possible-pairs1550/",
+    "url": "https://www.geeksforgeeks.org/problems/possible-pairs1550/1",
+    "topics": [
+      "Mathematics",
+      "Factorization"
+    ]
   }
 ]
