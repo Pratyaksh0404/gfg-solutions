@@ -605,5 +605,18 @@
       "Arrays",
       "Strings"
     ]
+  },
+  {
+    "slug": "nearest-multiple-of-102437",
+    "title": "Nearest Multiple of 10",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "nearest-multiple-of-102437/",
+    "url": "https://www.geeksforgeeks.org/problems/nearest-multiple-of-102437/1",
+    "topics": [
+      "Arrays",
+      "Strings",
+      "Mathematics"
+    ]
   }
 ]
