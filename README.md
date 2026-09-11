@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 53 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 54 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -27,7 +27,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 17 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
 | 18 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
 | 19 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 20 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 20 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 21 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -133,6 +134,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
 | 13 | [Reverse Digits](reverse-digit0316/) | Basic | python |
 | 14 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 15 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
