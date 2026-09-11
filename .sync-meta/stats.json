@@ -618,5 +618,17 @@
       "Strings",
       "Mathematics"
     ]
+  },
+  {
+    "slug": "k-modulus-array-element0255",
+    "title": "Values with Equal Array Remainders",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "k-modulus-array-element0255/",
+    "url": "https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1",
+    "topics": [
+      "Arrays",
+      "Mathematics"
+    ]
   }
 ]
