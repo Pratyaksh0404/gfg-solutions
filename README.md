@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 56 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 57 &nbsp;|&nbsp; 🟢 Easy: 17 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -139,15 +139,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Factorial](factorial5739/) | Basic | python |
 | 5 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
 | 6 | [Game of XOR](game-of-xor1541/) | Medium | python |
-| 7 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 8 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
-| 9 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 10 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 11 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 12 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 13 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 14 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 15 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 7 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
+| 8 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 9 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 10 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 11 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 12 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 13 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 14 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 15 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 16 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
