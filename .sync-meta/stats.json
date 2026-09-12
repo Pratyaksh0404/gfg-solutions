@@ -641,5 +641,19 @@
     "topics": [
       "Arrays"
     ]
+  },
+  {
+    "slug": "the-fizzbuzz-program",
+    "title": "The FizzBuzz Program",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "the-fizzbuzz-program/",
+    "url": "https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1",
+    "topics": [
+      "python-conditionals",
+      "CPP",
+      "Java",
+      "python"
+    ]
   }
 ]
