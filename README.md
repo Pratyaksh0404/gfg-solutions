@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 54 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 55 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -17,18 +17,19 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
 | 8 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
 | 9 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 10 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 11 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 12 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 13 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 14 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 15 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 16 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 17 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 18 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 19 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 20 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 21 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 10 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
+| 11 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 12 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 13 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 14 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 15 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 16 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 17 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 18 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 19 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 20 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 21 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 22 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
