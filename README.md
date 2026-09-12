@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 55 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 56 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -53,6 +53,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 2 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+
+## CPP
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [The FizzBuzz Program](the-fizzbuzz-program/) | Easy | python |
 
 ## Disjoint Set
 
@@ -111,6 +117,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
 
+## Java
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [The FizzBuzz Program](the-fizzbuzz-program/) | Easy | python |
+
 ## Linked List
 
 | # | My Solution | Difficulty | Language |
@@ -167,6 +179,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+
+## python
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [The FizzBuzz Program](the-fizzbuzz-program/) | Easy | python |
+
+## python-conditionals
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [The FizzBuzz Program](the-fizzbuzz-program/) | Easy | python |
 
 ## Recursion
 
