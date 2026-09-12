@@ -666,5 +666,17 @@
     "topics": [
       "Mathematics"
     ]
+  },
+  {
+    "slug": "all-divisors-of-a-number",
+    "title": "All Divisors of a Number",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "all-divisors-of-a-number/",
+    "url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
+    "topics": [
+      "Mathematics",
+      "Factorization"
+    ]
   }
 ]
