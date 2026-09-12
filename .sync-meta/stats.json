@@ -630,5 +630,16 @@
       "Arrays",
       "Mathematics"
     ]
+  },
+  {
+    "slug": "maximum-product4633",
+    "title": "Max Product Subsequence of Size K",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "maximum-product4633/",
+    "url": "https://www.geeksforgeeks.org/problems/maximum-product4633/1",
+    "topics": [
+      "Arrays"
+    ]
   }
 ]
