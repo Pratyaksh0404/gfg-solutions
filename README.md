@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 58 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 59 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 33 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -59,6 +59,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [The FizzBuzz Program](the-fizzbuzz-program/) | Easy | python |
+
+## DFS
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Party in Town](party-in-town3951/) | Medium | python |
 
 ## Disjoint Set
 
@@ -236,7 +242,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
-| 2 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
+| 2 | [Party in Town](party-in-town3951/) | Medium | python |
+| 3 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
 
 ## Uncategorized
 
