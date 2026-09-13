@@ -678,5 +678,17 @@
       "Mathematics",
       "Factorization"
     ]
+  },
+  {
+    "slug": "party-in-town3951",
+    "title": "Party in Town",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "party-in-town3951/",
+    "url": "https://www.geeksforgeeks.org/problems/party-in-town3951/1",
+    "topics": [
+      "DFS",
+      "Tree"
+    ]
   }
 ]
