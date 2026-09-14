@@ -690,5 +690,17 @@
       "DFS",
       "Tree"
     ]
+  },
+  {
+    "slug": "find-shortest-safe-route-in-a-matrix",
+    "title": "Shortest Safe Route in Grid",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "find-shortest-safe-route-in-a-matrix/",
+    "url": "https://www.geeksforgeeks.org/problems/find-shortest-safe-route-in-a-matrix/1",
+    "topics": [
+      "DFS",
+      "Graph"
+    ]
   }
 ]
