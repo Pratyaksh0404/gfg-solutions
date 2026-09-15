@@ -702,5 +702,16 @@
       "DFS",
       "Graph"
     ]
+  },
+  {
+    "slug": "leaf-under-budget",
+    "title": "Visit Leaves with Budget",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "leaf-under-budget/",
+    "url": "https://www.geeksforgeeks.org/problems/leaf-under-budget/1",
+    "topics": [
+      "Tree"
+    ]
   }
 ]
