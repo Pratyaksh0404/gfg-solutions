@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 60 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 34 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 61 &nbsp;|&nbsp; 🟢 Easy: 19 &nbsp;|&nbsp; 🟡 Medium: 34 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -246,6 +246,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
 | 2 | [Party in Town](party-in-town3951/) | Medium | python |
 | 3 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
+| 4 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
 
 ## Uncategorized
 
