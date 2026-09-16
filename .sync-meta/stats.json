@@ -713,5 +713,17 @@
     "topics": [
       "Tree"
     ]
+  },
+  {
+    "slug": "dominant-pairs",
+    "title": "Dominant Pairs",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "dominant-pairs/",
+    "url": "https://www.geeksforgeeks.org/problems/dominant-pairs/1",
+    "topics": [
+      "two-pointer-algorithm",
+      "Sorting"
+    ]
   }
 ]
