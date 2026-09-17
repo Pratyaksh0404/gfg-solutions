@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 67 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 68 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -267,8 +267,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Longest Word](display-longest-name0853/) | Basic | python |
 | 9 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
 | 10 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 11 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 12 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 11 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 12 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 13 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
