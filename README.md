@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 62 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 34 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 63 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -60,6 +60,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [The FizzBuzz Program](the-fizzbuzz-program/) | Easy | python |
 
+## Deque
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
+
 ## DFS
 
 | # | My Solution | Difficulty | Language |
@@ -98,8 +104,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
-| 2 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 3 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 2 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
+| 3 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 4 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
 
 ## Greedy
 
