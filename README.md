@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 66 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 67 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -12,24 +12,25 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
 | 3 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
 | 4 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Medium | python |
-| 5 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 6 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 7 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 8 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 9 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 10 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
-| 11 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 12 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 13 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 14 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 15 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 16 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 17 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 18 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 19 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 20 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 21 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 22 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 5 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 6 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 7 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 8 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 9 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 10 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 11 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
+| 12 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 13 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 14 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 15 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 16 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 17 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 18 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 19 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 20 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 21 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 22 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 23 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Binary Search
 
@@ -263,10 +264,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [First Occurence](implement-strstr/) | Basic | python |
 | 6 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 7 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 8 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 9 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 10 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 11 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 8 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 9 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 10 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 11 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 12 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
