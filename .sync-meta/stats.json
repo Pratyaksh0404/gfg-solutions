@@ -748,5 +748,19 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "implement-strstr",
+    "title": "First Occurence",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "implement-strstr/",
+    "url": "https://www.geeksforgeeks.org/problems/implement-strstr/1",
+    "topics": [
+      "Strings",
+      "Pattern Searching",
+      "Design-Pattern",
+      "implementation"
+    ]
   }
 ]
