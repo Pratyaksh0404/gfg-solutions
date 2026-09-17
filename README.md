@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 64 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 65 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -65,6 +65,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
+
+## Design-Pattern
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [First Occurence](implement-strstr/) | Basic | python |
 
 ## DFS
 
@@ -133,6 +139,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
 
+## implementation
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [First Occurence](implement-strstr/) | Basic | python |
+
 ## Java
 
 | # | My Solution | Difficulty | Language |
@@ -192,6 +204,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
+## Pattern Searching
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [First Occurence](implement-strstr/) | Basic | python |
+
 ## Prefix Sum
 
 | # | My Solution | Difficulty | Language |
@@ -241,12 +259,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Check Sum String](additive-sequence/) | Medium | python |
 | 2 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
 | 3 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 4 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 5 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 6 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 7 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 8 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 9 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 4 | [First Occurence](implement-strstr/) | Basic | python |
+| 5 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 6 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 7 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 8 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 9 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 10 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
