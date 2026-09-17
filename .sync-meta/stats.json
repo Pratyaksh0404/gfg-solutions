@@ -762,5 +762,16 @@
       "Design-Pattern",
       "implementation"
     ]
+  },
+  {
+    "slug": "check-for-binary",
+    "title": "Check for Binary String",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "check-for-binary/",
+    "url": "https://www.geeksforgeeks.org/problems/check-for-binary/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
