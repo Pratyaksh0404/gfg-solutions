@@ -725,5 +725,17 @@
       "two-pointer-algorithm",
       "Sorting"
     ]
+  },
+  {
+    "slug": "minimum-edges",
+    "title": "Min Edge Reversals for Path",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "minimum-edges/",
+    "url": "https://www.geeksforgeeks.org/problems/minimum-edges/1",
+    "topics": [
+      "Graph",
+      "Deque"
+    ]
   }
 ]
