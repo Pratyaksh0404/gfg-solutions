@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 63 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 64 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -239,13 +239,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Check Sum String](additive-sequence/) | Medium | python |
-| 2 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 3 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 4 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 5 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 6 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 7 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 8 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 2 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
+| 3 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 4 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 5 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 6 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 7 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 8 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 9 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
