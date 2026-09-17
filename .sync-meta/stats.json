@@ -796,5 +796,16 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "cat-and-hat-python",
+    "title": "Cat and Hat",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "cat-and-hat-python/",
+    "url": "https://www.geeksforgeeks.org/problems/cat-and-hat-python/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
