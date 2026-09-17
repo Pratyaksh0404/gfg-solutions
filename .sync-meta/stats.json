@@ -737,5 +737,16 @@
       "Graph",
       "Deque"
     ]
+  },
+  {
+    "slug": "convert-string-to-lowercase",
+    "title": "Convert String to Lower Case",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "convert-string-to-lowercase/",
+    "url": "https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
