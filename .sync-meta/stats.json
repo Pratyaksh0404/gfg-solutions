@@ -785,5 +785,16 @@
       "Arrays",
       "Strings"
     ]
+  },
+  {
+    "slug": "remove-vowels-from-string1446",
+    "title": "Remove Vowels",
+    "difficulty": "Basic",
+    "language": "python",
+    "path": "remove-vowels-from-string1446/",
+    "url": "https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
