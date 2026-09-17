@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 65 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 66 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -256,16 +256,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Check Sum String](additive-sequence/) | Medium | python |
-| 2 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
-| 3 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 4 | [First Occurence](implement-strstr/) | Basic | python |
-| 5 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 6 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 7 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 8 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 9 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 10 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 1 | [Check for Binary String](check-for-binary/) | Basic | python |
+| 2 | [Check Sum String](additive-sequence/) | Medium | python |
+| 3 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
+| 4 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 5 | [First Occurence](implement-strstr/) | Basic | python |
+| 6 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 7 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 8 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 9 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 10 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 11 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
