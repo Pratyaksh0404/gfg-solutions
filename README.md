@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 70 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 37 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 71 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 37 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -162,7 +162,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Search in Linked List](search-in-linked-list-1664434326/) | Easy | python |
+| 1 | [Delete Middle of Linked List](delete-middle-of-linked-list/) | Easy | python |
+| 2 | [Search in Linked List](search-in-linked-list-1664434326/) | Easy | python |
 
 ## Mathematics
 
@@ -291,7 +292,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Dominant Pairs](dominant-pairs/) | Easy | python |
+| 1 | [Delete Middle of Linked List](delete-middle-of-linked-list/) | Easy | python |
+| 2 | [Dominant Pairs](dominant-pairs/) | Easy | python |
 
 ## Uncategorized
 
