@@ -818,5 +818,17 @@
     "topics": [
       "Binary Search Tree"
     ]
+  },
+  {
+    "slug": "delete-middle-of-linked-list",
+    "title": "Delete Middle of Linked List",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "delete-middle-of-linked-list/",
+    "url": "https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1",
+    "topics": [
+      "Linked List",
+      "two-pointer-algorithm"
+    ]
   }
 ]
