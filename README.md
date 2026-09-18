@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 69 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 36 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 70 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 37 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -38,6 +38,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
 | 2 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+
+## Binary Search Tree
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Minimum Absolute Difference In BST](minimum-absolute-difference-in-bst-1665139652/) | Medium | python |
 
 ## Bit Magic
 
