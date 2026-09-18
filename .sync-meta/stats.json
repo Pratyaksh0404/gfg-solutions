@@ -807,5 +807,16 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "minimum-absolute-difference-in-bst-1665139652",
+    "title": "Minimum Absolute Difference In BST",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "minimum-absolute-difference-in-bst-1665139652/",
+    "url": "https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1",
+    "topics": [
+      "Binary Search Tree"
+    ]
   }
 ]
