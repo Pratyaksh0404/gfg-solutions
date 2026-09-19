@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 71 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 37 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 72 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 38 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -99,11 +99,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 2 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
 | 3 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 4 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
-| 5 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 6 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 7 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 8 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 4 | [Min Cost To Make Two Strings Identical](minimum-cost-to-make-two-strings-identical1107/) | Medium | python |
+| 5 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
+| 6 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 7 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 8 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 9 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
 
 ## Factorization
 
