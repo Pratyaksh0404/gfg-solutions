@@ -830,5 +830,16 @@
       "Linked List",
       "two-pointer-algorithm"
     ]
+  },
+  {
+    "slug": "minimum-cost-to-make-two-strings-identical1107",
+    "title": "Min Cost To Make Two Strings Identical",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "minimum-cost-to-make-two-strings-identical1107/",
+    "url": "https://www.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   }
 ]
