@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 72 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 38 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 73 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 39 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -193,6 +193,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
+| 2 | [Largest Subsquare Surrounded by X](largest-subsquare-surrounded-by-x0558/) | Medium | python |
 
 ## Modular Arithmetic
 
