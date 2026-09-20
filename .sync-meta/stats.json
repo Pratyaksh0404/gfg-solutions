@@ -841,5 +841,16 @@
     "topics": [
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "largest-subsquare-surrounded-by-x0558",
+    "title": "Largest Subsquare Surrounded by X",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "largest-subsquare-surrounded-by-x0558/",
+    "url": "https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1",
+    "topics": [
+      "Matrix"
+    ]
   }
 ]
