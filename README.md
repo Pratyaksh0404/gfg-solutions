@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 74 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 40 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 75 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 41 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -91,6 +91,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
+
+## Divide and Conquer
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Quick Sort](quick-sort/) | Medium | python |
 
 ## Dynamic Programming
 
@@ -260,7 +266,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Dominant Pairs](dominant-pairs/) | Easy | python |
 | 2 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 3 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 3 | [Quick Sort](quick-sort/) | Medium | python |
+| 4 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Strings
 
