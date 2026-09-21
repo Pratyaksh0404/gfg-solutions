@@ -865,15 +865,14 @@
     ]
   },
   {
-    "slug": "quick-sort",
-    "title": "Quick Sort",
-    "difficulty": "Medium",
+    "slug": "merge-sort",
+    "title": "Merge Sort",
+    "difficulty": "Unknown",
     "language": "python",
-    "path": "quick-sort/",
-    "url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+    "path": "merge-sort/",
+    "url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
     "topics": [
-      "Divide and Conquer",
-      "Sorting"
+      "Uncategorized"
     ]
   }
 ]
