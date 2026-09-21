@@ -885,5 +885,18 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "convex-hull2138",
+    "title": "Convex Hull",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "convex-hull2138/",
+    "url": "https://www.geeksforgeeks.org/problems/convex-hull2138/1",
+    "topics": [
+      "Mathematics",
+      "Divide and Conquer",
+      "Geometric"
+    ]
   }
 ]
