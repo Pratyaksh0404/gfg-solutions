@@ -863,5 +863,17 @@
     "topics": [
       "Tree"
     ]
+  },
+  {
+    "slug": "quick-sort",
+    "title": "Quick Sort",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "quick-sort/",
+    "url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+    "topics": [
+      "Divide and Conquer",
+      "Sorting"
+    ]
   }
 ]
