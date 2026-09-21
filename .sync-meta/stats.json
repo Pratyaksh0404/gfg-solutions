@@ -852,5 +852,16 @@
     "topics": [
       "Matrix"
     ]
+  },
+  {
+    "slug": "check-if-all-levels-of-two-trees-are-anagrams-or-not",
+    "title": "Check Level Anagrams in Binary Trees",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "check-if-all-levels-of-two-trees-are-anagrams-or-not/",
+    "url": "https://www.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1",
+    "topics": [
+      "Tree"
+    ]
   }
 ]
