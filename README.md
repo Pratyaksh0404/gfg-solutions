@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 76 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 40 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 77 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 40 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -92,6 +92,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
 
+## Divide and Conquer
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Convex Hull](convex-hull2138/) | Hard | python |
+
 ## Dynamic Programming
 
 | # | My Solution | Difficulty | Language |
@@ -112,6 +118,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [All Divisors of a Number](all-divisors-of-a-number/) | Easy | python |
 | 2 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+
+## Geometric
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Convex Hull](convex-hull2138/) | Hard | python |
 
 ## Graph
 
@@ -173,20 +185,21 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [All Divisors of a Number](all-divisors-of-a-number/) | Easy | python |
 | 2 | [Arithmetic Number](arithmetic-number2815/) | Easy | python |
 | 3 | [Armstrong Numbers](armstrong-numbers2727/) | Easy | python |
-| 4 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 5 | [Factorial](factorial5739/) | Basic | python |
-| 6 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 7 | [Game of XOR](game-of-xor1541/) | Medium | python |
-| 8 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
-| 9 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 10 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
-| 11 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 12 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 13 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 14 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 15 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 16 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 17 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 4 | [Convex Hull](convex-hull2138/) | Hard | python |
+| 5 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 6 | [Factorial](factorial5739/) | Basic | python |
+| 7 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 8 | [Game of XOR](game-of-xor1541/) | Medium | python |
+| 9 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
+| 10 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 11 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 12 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 13 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 14 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 15 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 16 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 17 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 18 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
