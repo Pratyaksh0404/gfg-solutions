@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 77 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 40 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 78 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 41 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -287,12 +287,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [First Occurence](implement-strstr/) | Basic | python |
 | 7 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 8 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 9 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 10 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 11 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 12 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 13 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 14 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 9 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
+| 10 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 11 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 12 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 13 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 14 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 15 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
