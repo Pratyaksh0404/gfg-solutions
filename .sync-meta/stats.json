@@ -898,5 +898,16 @@
       "Divide and Conquer",
       "Geometric"
     ]
+  },
+  {
+    "slug": "find-largest-word-in-dictionary2430",
+    "title": "Longest Matching in Dictionary with Removals",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "find-largest-word-in-dictionary2430/",
+    "url": "https://www.geeksforgeeks.org/problems/find-largest-word-in-dictionary2430/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
