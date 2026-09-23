@@ -909,5 +909,16 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "pyramid-form3044",
+    "title": "Pyramid Array with Reduce Operations",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "pyramid-form3044/",
+    "url": "https://www.geeksforgeeks.org/problems/pyramid-form3044/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   }
 ]
