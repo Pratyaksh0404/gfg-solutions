@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 78 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 41 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 79 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 42 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -110,7 +110,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 7 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
 | 8 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 9 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 9 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
+| 10 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
 
 ## Factorization
 
