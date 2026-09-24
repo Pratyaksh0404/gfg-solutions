@@ -920,5 +920,17 @@
     "topics": [
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "stacking-up-discs1315",
+    "title": "Maximum Height Disc Stack",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "stacking-up-discs1315/",
+    "url": "https://www.geeksforgeeks.org/problems/stacking-up-discs1315/1",
+    "topics": [
+      "Dynamic Programming",
+      "Sorting"
+    ]
   }
 ]
