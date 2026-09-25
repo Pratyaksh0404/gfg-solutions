@@ -932,5 +932,16 @@
       "Dynamic Programming",
       "Sorting"
     ]
+  },
+  {
+    "slug": "box-stacking",
+    "title": "Box Stacking",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "box-stacking/",
+    "url": "https://www.geeksforgeeks.org/problems/box-stacking/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   }
 ]
