@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 80 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 42 &nbsp;|&nbsp; 🔴 Hard: 5
+**Total solved:** 81 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 42 &nbsp;|&nbsp; 🔴 Hard: 6
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -102,17 +102,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 2 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
-| 3 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 4 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
-| 5 | [Min Cost To Make Two Strings Identical](minimum-cost-to-make-two-strings-identical1107/) | Medium | python |
-| 6 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
-| 7 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 8 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 9 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 10 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
-| 11 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 1 | [Box Stacking](box-stacking/) | Hard | python |
+| 2 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 3 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
+| 4 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 5 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
+| 6 | [Min Cost To Make Two Strings Identical](minimum-cost-to-make-two-strings-identical1107/) | Medium | python |
+| 7 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
+| 8 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 9 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 10 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 11 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
+| 12 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
 
 ## Factorization
 
