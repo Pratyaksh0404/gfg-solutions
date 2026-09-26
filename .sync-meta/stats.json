@@ -943,5 +943,16 @@
     "topics": [
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "pizza-mania0155",
+    "title": "Minimum Cost Pizza Selection",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "pizza-mania0155/",
+    "url": "https://www.geeksforgeeks.org/problems/pizza-mania0155/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   }
 ]
