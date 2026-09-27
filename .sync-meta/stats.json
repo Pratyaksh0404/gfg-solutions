@@ -954,5 +954,16 @@
     "topics": [
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "longest-colored-path--151454",
+    "title": "Longest Colored Path",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "longest-colored-path--151454/",
+    "url": "https://www.geeksforgeeks.org/problems/longest-colored-path--151454/1",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
