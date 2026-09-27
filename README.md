@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 82 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 43 &nbsp;|&nbsp; 🔴 Hard: 6
+**Total solved:** 83 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 43 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -322,5 +322,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Histogram Max Rectangular Area](maximum-rectangular-area-in-a-histogram-1587115620/) | Unknown | python |
-| 2 | [Merge Sort](merge-sort/) | Unknown | python |
-| 3 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
+| 2 | [Longest Colored Path](longest-colored-path--151454/) | Hard | python |
+| 3 | [Merge Sort](merge-sort/) | Unknown | python |
+| 4 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
