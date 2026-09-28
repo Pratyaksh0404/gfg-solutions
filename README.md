@@ -1,8 +1,14 @@
 # Solutions
 
-**Total solved:** 83 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 43 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 84 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 44 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
+
+## Advanced Data Structure
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
 
 ## Arrays
 
@@ -201,9 +207,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
 | 14 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 | 15 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 16 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 17 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 18 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 16 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 17 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 18 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 19 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
@@ -218,6 +225,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 2 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+
+## Number Theory
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
 
 ## Numbers
 
@@ -270,6 +283,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Majority Element](majority-element-1587115620/) | Medium | python |
 | 2 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
 | 3 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+
+## Segment-Tree
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
 
 ## Sorting
 
