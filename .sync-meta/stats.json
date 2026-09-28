@@ -965,5 +965,19 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "range-gcd-queries3654",
+    "title": "Range GCD Queries",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "range-gcd-queries3654/",
+    "url": "https://www.geeksforgeeks.org/problems/range-gcd-queries3654/1",
+    "topics": [
+      "Segment-Tree",
+      "Advanced Data Structure",
+      "Number Theory",
+      "Mathematics"
+    ]
   }
 ]
