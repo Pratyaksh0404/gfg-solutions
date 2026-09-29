@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 86 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 87 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -159,6 +159,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Gas Station](circular-tour-1587115620/) | Medium | python |
 | 3 | [Majority Element](majority-element-1587115620/) | Medium | python |
 | 4 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 5 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 
 ## Hash
 
@@ -311,7 +312,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Dominant Pairs](dominant-pairs/) | Easy | python |
 | 2 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
 | 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 4 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 4 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 5 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Strings
 
