@@ -992,5 +992,18 @@
       "BFS",
       "Queue"
     ]
+  },
+  {
+    "slug": "factorials-of-large-numbers2508",
+    "title": "Factorials of Large",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "factorials-of-large-numbers2508/",
+    "url": "https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1",
+    "topics": [
+      "Number Theory",
+      "Strings",
+      "Combinatorial"
+    ]
   }
 ]
