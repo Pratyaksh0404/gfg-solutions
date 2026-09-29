@@ -1005,5 +1005,17 @@
       "Strings",
       "Combinatorial"
     ]
+  },
+  {
+    "slug": "shop-in-candy-store1145",
+    "title": "Shop in Candy Store",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "shop-in-candy-store1145/",
+    "url": "https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1",
+    "topics": [
+      "Greedy",
+      "Sorting"
+    ]
   }
 ]
