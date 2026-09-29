@@ -15,5 +15,5 @@ class Solution:
 
         a, _ = bfs(0)
         _, d = bfs(a)
-        
+
         return (d + 1) // 2
