@@ -979,5 +979,18 @@
       "Number Theory",
       "Mathematics"
     ]
+  },
+  {
+    "slug": "steps-by-knight5927",
+    "title": "Min Steps by Knight",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "steps-by-knight5927/",
+    "url": "https://www.geeksforgeeks.org/problems/steps-by-knight5927/1",
+    "topics": [
+      "Graph",
+      "BFS",
+      "Queue"
+    ]
   }
 ]
