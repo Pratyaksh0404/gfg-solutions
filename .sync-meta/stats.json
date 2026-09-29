@@ -503,12 +503,12 @@
   {
     "slug": "longest-sub-sequence-such-that-difference-between-adjacents-is-one2558",
     "title": "Longest Subsequence with Adjacent Diff as 1",
-    "difficulty": "Medium",
+    "difficulty": "Unknown",
     "language": "python",
     "path": "longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/",
     "url": "https://www.geeksforgeeks.org/problems/longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/1",
     "topics": [
-      "Arrays"
+      "Uncategorized"
     ]
   },
   {
