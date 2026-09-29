@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 84 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 44 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 85 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -37,6 +37,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 21 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
 | 22 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 | 23 | [Wave Array](wave-array-1587115621/) | Medium | python |
+
+## BFS
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
 
 ## Binary Search
 
@@ -141,8 +147,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
 | 2 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
-| 3 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 4 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 3 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
+| 4 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 5 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
 
 ## Greedy
 
@@ -267,6 +274,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [The FizzBuzz Program](the-fizzbuzz-program/) | Easy | python |
+
+## Queue
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
 
 ## Recursion
 
