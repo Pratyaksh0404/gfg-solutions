@@ -9,6 +9,7 @@ class Node:
 class Solution:
     def getCount(self, root, k):
         leaves = []
+        
         def dfs(node, level):
             if not node:
                 return
@@ -21,11 +22,12 @@ class Solution:
         dfs(root, 1)
         leaves.sort()
 
-        count = 0
+        ans = 0
         for cost in leaves:
             if k >= cost:
                 k -= cost
-                count += 1
+                ans += 1
             else:
                 break
-        return count
+            
+        return ans
