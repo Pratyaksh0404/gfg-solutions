@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 85 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 44 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 86 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -70,7 +70,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 2 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 2 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
+| 3 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
 
 ## CPP
 
@@ -236,7 +237,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 1 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
+| 2 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
 
 ## Numbers
 
@@ -320,16 +322,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Check Sum String](additive-sequence/) | Medium | python |
 | 4 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
 | 5 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 6 | [First Occurence](implement-strstr/) | Basic | python |
-| 7 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 8 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 9 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
-| 10 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 11 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 12 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 13 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 14 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 15 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 6 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
+| 7 | [First Occurence](implement-strstr/) | Basic | python |
+| 8 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 9 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 10 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
+| 11 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 12 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 13 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 14 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 15 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 16 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
