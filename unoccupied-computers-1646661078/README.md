@@ -24,8 +24,3 @@ Input: n = 1, s = "ABCBAC"
 Output: 2
 Explanation: B and C will not be able to get any computers. So the answer is 2.
 ```
-
-**Constraints:**
-- `1 ≤ n ≤ 26`
-- `1 ≤ |s| ≤ 52`
-s consists of uppercase English letters and each letter occurs exactly 2 times.
