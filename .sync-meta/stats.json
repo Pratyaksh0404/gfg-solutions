@@ -1030,5 +1030,16 @@
       "Dynamic Programming",
       "Matrix"
     ]
+  },
+  {
+    "slug": "check-if-subtree",
+    "title": "Check Subtree",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "check-if-subtree/",
+    "url": "https://www.geeksforgeeks.org/problems/check-if-subtree/1",
+    "topics": [
+      "Tree"
+    ]
   }
 ]
