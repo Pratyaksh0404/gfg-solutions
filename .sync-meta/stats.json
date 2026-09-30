@@ -1017,5 +1017,18 @@
       "Greedy",
       "Sorting"
     ]
+  },
+  {
+    "slug": "paths-to-reach-origin3850",
+    "title": "Ways to Reach Origin",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "paths-to-reach-origin3850/",
+    "url": "https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1",
+    "topics": [
+      "Arrays",
+      "Dynamic Programming",
+      "Matrix"
+    ]
   }
 ]
