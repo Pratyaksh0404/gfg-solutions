@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 87 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 88 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 46 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -36,6 +36,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 20 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
 | 21 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 | 22 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 23 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## BFS
 
@@ -127,6 +128,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 11 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
 | 12 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
 | 13 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 14 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Factorization
 
@@ -226,6 +228,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
 | 2 | [Largest Subsquare Surrounded by X](largest-subsquare-surrounded-by-x0558/) | Medium | python |
+| 3 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Modular Arithmetic
 
