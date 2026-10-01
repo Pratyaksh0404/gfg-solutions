@@ -1054,5 +1054,16 @@
       "Sorting",
       "Graph"
     ]
+  },
+  {
+    "slug": "sum-of-numbers-or-number1219",
+    "title": "Sum Two Large Numbers",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "sum-of-numbers-or-number1219/",
+    "url": "https://www.geeksforgeeks.org/problems/sum-of-numbers-or-number1219/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
