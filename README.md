@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 90 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 48 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 91 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 49 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -340,7 +340,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
 | 14 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
 | 15 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 16 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 16 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 17 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
