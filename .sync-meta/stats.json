@@ -1041,5 +1041,18 @@
     "topics": [
       "Tree"
     ]
+  },
+  {
+    "slug": "project-manager--141631",
+    "title": "Minimum Time to Finish Project",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "project-manager--141631/",
+    "url": "https://www.geeksforgeeks.org/problems/project-manager--141631/1",
+    "topics": [
+      "DFS",
+      "Sorting",
+      "Graph"
+    ]
   }
 ]
