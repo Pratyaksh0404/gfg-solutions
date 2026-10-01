@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 89 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 47 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 90 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 48 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -96,8 +96,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Party in Town](party-in-town3951/) | Medium | python |
-| 2 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 1 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 2 | [Party in Town](party-in-town3951/) | Medium | python |
+| 3 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
 
 ## Disjoint Set
 
@@ -150,8 +151,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
 | 2 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
 | 3 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
-| 4 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 5 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 4 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 5 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 6 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
 
 ## Greedy
 
@@ -315,8 +317,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Dominant Pairs](dominant-pairs/) | Easy | python |
 | 2 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
 | 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 4 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
-| 5 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 4 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 5 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 6 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Strings
 
