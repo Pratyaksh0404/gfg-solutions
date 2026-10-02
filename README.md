@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 91 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 49 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 92 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 49 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -366,7 +366,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Histogram Max Rectangular Area](maximum-rectangular-area-in-a-histogram-1587115620/) | Unknown | python |
-| 2 | [Longest Colored Path](longest-colored-path--151454/) | Hard | python |
-| 3 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Unknown | python |
-| 4 | [Merge Sort](merge-sort/) | Unknown | python |
-| 5 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
+| 2 | [Lexicographically Smallest Rotation](lexicographically-smallest-string--151951/) | Unknown | python |
+| 3 | [Longest Colored Path](longest-colored-path--151454/) | Hard | python |
+| 4 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Unknown | python |
+| 5 | [Merge Sort](merge-sort/) | Unknown | python |
+| 6 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
