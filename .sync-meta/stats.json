@@ -1065,5 +1065,16 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "lexicographically-smallest-string--151951",
+    "title": "Lexicographically Smallest Rotation",
+    "difficulty": "Unknown",
+    "language": "python",
+    "path": "lexicographically-smallest-string--151951/",
+    "url": "https://www.geeksforgeeks.org/problems/lexicographically-smallest-string--151951/1",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
