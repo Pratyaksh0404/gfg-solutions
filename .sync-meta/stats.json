@@ -1076,5 +1076,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "form-coils-in-a-matrix4726",
+    "title": "Coils in a Matrix",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "form-coils-in-a-matrix4726/",
+    "url": "https://www.geeksforgeeks.org/problems/form-coils-in-a-matrix4726/1",
+    "topics": [
+      "Matrix"
+    ]
   }
 ]
