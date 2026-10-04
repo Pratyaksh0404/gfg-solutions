@@ -1087,5 +1087,17 @@
     "topics": [
       "Matrix"
     ]
+  },
+  {
+    "slug": "find-perimeter-of-shapes",
+    "title": "Perimeter of Shapes in Binary Matrix",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "find-perimeter-of-shapes/",
+    "url": "https://www.geeksforgeeks.org/problems/find-perimeter-of-shapes/1",
+    "topics": [
+      "Matrix",
+      "Geometric"
+    ]
   }
 ]
