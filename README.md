@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 93 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 50 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 94 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 50 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -143,6 +143,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Convex Hull](convex-hull2138/) | Hard | python |
+| 2 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Easy | python |
 
 ## Graph
 
@@ -231,7 +232,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Coils in a Matrix](form-coils-in-a-matrix4726/) | Medium | python |
 | 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
 | 3 | [Largest Subsquare Surrounded by X](largest-subsquare-surrounded-by-x0558/) | Medium | python |
-| 4 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 4 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Easy | python |
+| 5 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Modular Arithmetic
 
