@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 94 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 50 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 95 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 7
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -155,6 +155,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
 | 5 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
 | 6 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 7 | [Your Social Network](your-social-network0328/) | Medium | python |
 
 ## Greedy
 
