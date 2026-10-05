@@ -1099,5 +1099,16 @@
       "Matrix",
       "Geometric"
     ]
+  },
+  {
+    "slug": "your-social-network0328",
+    "title": "Your Social Network",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "your-social-network0328/",
+    "url": "https://www.geeksforgeeks.org/problems/your-social-network0328/1",
+    "topics": [
+      "Graph"
+    ]
   }
 ]
