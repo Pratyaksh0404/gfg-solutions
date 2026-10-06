@@ -1110,5 +1110,16 @@
     "topics": [
       "Graph"
     ]
+  },
+  {
+    "slug": "longest-increasing-path-in-a-matrix",
+    "title": "Longest Increasing Path in Matrix",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "longest-increasing-path-in-a-matrix/",
+    "url": "https://www.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   }
 ]
