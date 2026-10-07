@@ -1121,5 +1121,16 @@
     "topics": [
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "maximum-path-sum",
+    "title": "Max Path Sum Between Two Leaves",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "maximum-path-sum/",
+    "url": "https://www.geeksforgeeks.org/problems/maximum-path-sum/1",
+    "topics": [
+      "Tree"
+    ]
   }
 ]
