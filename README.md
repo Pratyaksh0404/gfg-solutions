@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 96 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 8
+**Total solved:** 97 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -355,9 +355,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Check Level Anagrams in Binary Trees](check-if-all-levels-of-two-trees-are-anagrams-or-not/) | Medium | python |
 | 2 | [Check Subtree](check-if-subtree/) | Medium | python |
 | 3 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
-| 4 | [Party in Town](party-in-town3951/) | Medium | python |
-| 5 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
-| 6 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
+| 4 | [Max Path Sum Between Two Leaves](maximum-path-sum/) | Hard | python |
+| 5 | [Party in Town](party-in-town3951/) | Medium | python |
+| 6 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
+| 7 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
 
 ## two-pointer-algorithm
 
