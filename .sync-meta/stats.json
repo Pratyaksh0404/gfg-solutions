@@ -1132,5 +1132,16 @@
     "topics": [
       "Tree"
     ]
+  },
+  {
+    "slug": "maximum-frequency-1662528911",
+    "title": "Maximum Frequency with K Increments",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "maximum-frequency-1662528911/",
+    "url": "https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1",
+    "topics": [
+      "sliding-window"
+    ]
   }
 ]
