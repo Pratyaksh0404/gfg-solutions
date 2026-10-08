@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 97 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 98 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -314,6 +314,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+
+## sliding-window
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Maximum Frequency with K Increments](maximum-frequency-1662528911/) | Medium | python |
 
 ## Sorting
 
