@@ -1143,5 +1143,17 @@
     "topics": [
       "sliding-window"
     ]
+  },
+  {
+    "slug": "find-optimum-operation4504",
+    "title": "Minimum Operations to Reach n",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "find-optimum-operation4504/",
+    "url": "https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1",
+    "topics": [
+      "Dynamic Programming",
+      "Greedy"
+    ]
   }
 ]
