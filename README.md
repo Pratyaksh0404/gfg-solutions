@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 98 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 99 &nbsp;|&nbsp; 🟢 Easy: 24 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -128,9 +128,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
 | 11 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
 | 12 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 13 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
-| 14 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
-| 15 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 13 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 14 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
+| 15 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 16 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Factorization
 
@@ -165,8 +166,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
 | 2 | [Gas Station](circular-tour-1587115620/) | Medium | python |
 | 3 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 4 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 5 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 4 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 5 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 6 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 
 ## Hash
 
