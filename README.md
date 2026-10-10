@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 99 &nbsp;|&nbsp; 🟢 Easy: 24 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 100 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -212,22 +212,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [All Divisors of a Number](all-divisors-of-a-number/) | Easy | python |
 | 2 | [Arithmetic Number](arithmetic-number2815/) | Easy | python |
 | 3 | [Armstrong Numbers](armstrong-numbers2727/) | Easy | python |
-| 4 | [Convex Hull](convex-hull2138/) | Hard | python |
-| 5 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 6 | [Factorial](factorial5739/) | Basic | python |
-| 7 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 8 | [Game of XOR](game-of-xor1541/) | Medium | python |
-| 9 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
-| 10 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 11 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
-| 12 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 13 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 14 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 15 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 16 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
-| 17 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 18 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 19 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 4 | [Balancing with Distinct Powers](balancing-pan5038/) | Easy | python |
+| 5 | [Convex Hull](convex-hull2138/) | Hard | python |
+| 6 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 7 | [Factorial](factorial5739/) | Basic | python |
+| 8 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 9 | [Game of XOR](game-of-xor1541/) | Medium | python |
+| 10 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
+| 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 12 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 13 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 14 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 15 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 16 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 17 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 18 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 19 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 20 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
