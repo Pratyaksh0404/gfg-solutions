@@ -1155,5 +1155,16 @@
       "Dynamic Programming",
       "Greedy"
     ]
+  },
+  {
+    "slug": "balancing-pan5038",
+    "title": "Balancing with Distinct Powers",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "balancing-pan5038/",
+    "url": "https://www.geeksforgeeks.org/problems/balancing-pan5038/1",
+    "topics": [
+      "Mathematics"
+    ]
   }
 ]
