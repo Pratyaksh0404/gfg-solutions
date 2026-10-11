@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 100 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 101 &nbsp;|&nbsp; 🟢 Easy: 26 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -333,7 +333,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
 | 4 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
 | 5 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
-| 6 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 6 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
+| 7 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Strings
 
@@ -375,6 +376,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Delete Middle of Linked List](delete-middle-of-linked-list/) | Easy | python |
 | 2 | [Dominant Pairs](dominant-pairs/) | Easy | python |
+| 3 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
 
 ## Uncategorized
 
