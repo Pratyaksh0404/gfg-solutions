@@ -1166,5 +1166,17 @@
     "topics": [
       "Mathematics"
     ]
+  },
+  {
+    "slug": "sort-the-half-sorted2157",
+    "title": "Sort Two Parts Sorted",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "sort-the-half-sorted2157/",
+    "url": "https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1",
+    "topics": [
+      "two-pointer-algorithm",
+      "Sorting"
+    ]
   }
 ]
