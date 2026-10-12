@@ -1178,5 +1178,16 @@
       "two-pointer-algorithm",
       "Sorting"
     ]
+  },
+  {
+    "slug": "squares-in-reactangle3340",
+    "title": "Minimum Squares with Full Cuts",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "squares-in-reactangle3340/",
+    "url": "https://www.geeksforgeeks.org/problems/squares-in-reactangle3340/1",
+    "topics": [
+      "Mathematics"
+    ]
   }
 ]
