@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 101 &nbsp;|&nbsp; 🟢 Easy: 26 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 102 &nbsp;|&nbsp; 🟢 Easy: 26 &nbsp;|&nbsp; 🟡 Medium: 53 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -221,14 +221,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
 | 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 12 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
-| 13 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 14 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 15 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 16 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 17 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
-| 18 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 19 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 20 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 13 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
+| 14 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 15 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 16 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 17 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 18 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 19 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 20 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 21 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
