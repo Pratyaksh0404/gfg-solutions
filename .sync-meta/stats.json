@@ -1189,5 +1189,16 @@
     "topics": [
       "Mathematics"
     ]
+  },
+  {
+    "slug": "adding-ones3628",
+    "title": "Adding Ones",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "adding-ones3628/",
+    "url": "https://www.geeksforgeeks.org/problems/adding-ones3628/1",
+    "topics": [
+      "Arrays"
+    ]
   }
 ]
