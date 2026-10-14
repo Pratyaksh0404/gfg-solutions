@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 103 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 53 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 104 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 54 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -32,12 +32,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 16 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
 | 17 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
 | 18 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 19 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 20 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 21 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 22 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 23 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 24 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 19 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 20 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 21 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 22 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 23 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 24 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 25 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## BFS
 
@@ -356,9 +357,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
 | 13 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
 | 14 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 15 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 16 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 17 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 15 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 16 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 17 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 18 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
