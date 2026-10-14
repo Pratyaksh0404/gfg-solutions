@@ -1200,5 +1200,17 @@
     "topics": [
       "Arrays"
     ]
+  },
+  {
+    "slug": "roll-the-characters-of-a-string2127",
+    "title": "Roll Characters of String",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "roll-the-characters-of-a-string2127/",
+    "url": "https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1",
+    "topics": [
+      "Arrays",
+      "Strings"
+    ]
   }
 ]
