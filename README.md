@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 104 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 54 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 105 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 55 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -65,8 +65,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Finding Profession](finding-profession3834/) | Medium | python |
 | 2 | [Game of XOR](game-of-xor1541/) | Medium | python |
-| 3 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 4 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
+| 3 | [Maximum Without 3 Consecutive Set Bits](geek-hates-too-many-1s--170647/) | Medium | python |
+| 4 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 5 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
 
 ## Combinatorial
 
