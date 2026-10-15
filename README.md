@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 105 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 55 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 105 &nbsp;|&nbsp; 🟢 Easy: 26 &nbsp;|&nbsp; 🟡 Medium: 55 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -148,7 +148,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Convex Hull](convex-hull2138/) | Hard | python |
-| 2 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Easy | python |
 
 ## Graph
 
@@ -241,8 +240,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Coils in a Matrix](form-coils-in-a-matrix4726/) | Medium | python |
 | 2 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
 | 3 | [Largest Subsquare Surrounded by X](largest-subsquare-surrounded-by-x0558/) | Medium | python |
-| 4 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Easy | python |
-| 5 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 4 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Modular Arithmetic
 
@@ -392,4 +390,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Longest Colored Path](longest-colored-path--151454/) | Hard | python |
 | 4 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Unknown | python |
 | 5 | [Merge Sort](merge-sort/) | Unknown | python |
-| 6 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
+| 6 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Unknown | python |
+| 7 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
