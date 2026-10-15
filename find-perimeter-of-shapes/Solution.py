@@ -3,7 +3,6 @@ class Solution:
         n = len(mat)
         m = len(mat[0])
         ans = 0
-
         for i in range(n):
             for j in range(m):
                 if mat[i][j] == 1:
