@@ -1212,5 +1212,16 @@
       "Arrays",
       "Strings"
     ]
+  },
+  {
+    "slug": "geek-hates-too-many-1s--170647",
+    "title": "Maximum Without 3 Consecutive Set Bits",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "geek-hates-too-many-1s--170647/",
+    "url": "https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1",
+    "topics": [
+      "Bit Magic"
+    ]
   }
 ]
