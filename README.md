@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 105 &nbsp;|&nbsp; 🟢 Easy: 26 &nbsp;|&nbsp; 🟡 Medium: 55 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 106 &nbsp;|&nbsp; 🟢 Easy: 26 &nbsp;|&nbsp; 🟡 Medium: 56 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -34,11 +34,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 18 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
 | 19 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
 | 20 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 21 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 22 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 23 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 24 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 25 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 21 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 22 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 23 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 24 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 25 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 26 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## BFS
 
@@ -76,6 +77,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 2 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
 | 3 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+
+## constructive algo
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
 
 ## CPP
 
