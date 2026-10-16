@@ -1222,5 +1222,17 @@
     "topics": [
       "Bit Magic"
     ]
+  },
+  {
+    "slug": "count-always-found",
+    "title": "Successful Binary Searches Irrespective of Pivot",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "count-always-found/",
+    "url": "https://www.geeksforgeeks.org/problems/count-always-found/1",
+    "topics": [
+      "constructive algo",
+      "Arrays"
+    ]
   }
 ]
