@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 106 &nbsp;|&nbsp; 🟢 Easy: 26 &nbsp;|&nbsp; 🟡 Medium: 56 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 107 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 56 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -82,7 +82,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 1 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
+| 2 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
 
 ## CPP
 
@@ -173,11 +174,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
-| 2 | [Gas Station](circular-tour-1587115620/) | Medium | python |
-| 3 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 4 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
-| 5 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 6 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 2 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
+| 3 | [Gas Station](circular-tour-1587115620/) | Medium | python |
+| 4 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 5 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 6 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 7 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 
 ## Hash
 
@@ -352,21 +354,22 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Cat and Hat](cat-and-hat-python/) | Medium | python |
 | 2 | [Check for Binary String](check-for-binary/) | Basic | python |
 | 3 | [Check Sum String](additive-sequence/) | Medium | python |
-| 4 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
-| 5 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 6 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
-| 7 | [First Occurence](implement-strstr/) | Basic | python |
-| 8 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 9 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 10 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
-| 11 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 12 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 13 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 14 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 15 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 16 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 17 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 18 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 4 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
+| 5 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
+| 6 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 7 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
+| 8 | [First Occurence](implement-strstr/) | Basic | python |
+| 9 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 10 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 11 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
+| 12 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 13 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 14 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 15 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 16 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 17 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 18 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 19 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
@@ -384,9 +387,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Delete Middle of Linked List](delete-middle-of-linked-list/) | Easy | python |
-| 2 | [Dominant Pairs](dominant-pairs/) | Easy | python |
-| 3 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
+| 1 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
+| 2 | [Delete Middle of Linked List](delete-middle-of-linked-list/) | Easy | python |
+| 3 | [Dominant Pairs](dominant-pairs/) | Easy | python |
+| 4 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
 
 ## Uncategorized
 
