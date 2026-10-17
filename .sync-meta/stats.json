@@ -1234,5 +1234,19 @@
       "constructive algo",
       "Arrays"
     ]
+  },
+  {
+    "slug": "check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116",
+    "title": "Convert One String to Another with Constraints",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/",
+    "url": "https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/1",
+    "topics": [
+      "Strings",
+      "constructive algo",
+      "Greedy",
+      "two-pointer-algorithm"
+    ]
   }
 ]
