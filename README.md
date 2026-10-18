@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 107 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 56 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 108 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 56 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -166,8 +166,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
 | 4 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
 | 5 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 6 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
-| 7 | [Your Social Network](your-social-network0328/) | Medium | python |
+| 6 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 7 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 8 | [Your Social Network](your-social-network0328/) | Medium | python |
 
 ## Greedy
 
@@ -239,8 +240,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 17 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
 | 18 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
 | 19 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 20 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 21 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 20 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 21 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 22 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
@@ -328,6 +330,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+
+## Shortest Path
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
 
 ## sliding-window
 
