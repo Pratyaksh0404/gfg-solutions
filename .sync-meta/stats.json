@@ -1248,5 +1248,18 @@
       "Greedy",
       "two-pointer-algorithm"
     ]
+  },
+  {
+    "slug": "shortest-path-from-1-to-n0156",
+    "title": "Shortest Path From 1 To n",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "shortest-path-from-1-to-n0156/",
+    "url": "https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1",
+    "topics": [
+      "Mathematics",
+      "Graph",
+      "Shortest Path"
+    ]
   }
 ]
