@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 108 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 56 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 109 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 57 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -107,9 +107,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
-| 2 | [Party in Town](party-in-town3951/) | Medium | python |
-| 3 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 1 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
+| 2 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 3 | [Party in Town](party-in-town3951/) | Medium | python |
+| 4 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
 
 ## Disjoint Set
 
@@ -128,21 +129,22 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Box Stacking](box-stacking/) | Hard | python |
-| 2 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 3 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
-| 4 | [Longest Increasing Path in Matrix](longest-increasing-path-in-a-matrix/) | Hard | python |
-| 5 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 6 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
-| 7 | [Min Cost To Make Two Strings Identical](minimum-cost-to-make-two-strings-identical1107/) | Medium | python |
-| 8 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
-| 9 | [Minimum Cost Pizza Selection](pizza-mania0155/) | Medium | python |
-| 10 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 11 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 12 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 13 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
-| 14 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
-| 15 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
-| 16 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 2 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
+| 3 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 4 | [Count Subsequences Divisible by n](number-of-subsequences-in-a-string-divisible-by-n5947/) | Medium | python |
+| 5 | [Longest Increasing Path in Matrix](longest-increasing-path-in-a-matrix/) | Hard | python |
+| 6 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 7 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
+| 8 | [Min Cost To Make Two Strings Identical](minimum-cost-to-make-two-strings-identical1107/) | Medium | python |
+| 9 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
+| 10 | [Minimum Cost Pizza Selection](pizza-mania0155/) | Medium | python |
+| 11 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 12 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 13 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 14 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 15 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
+| 16 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 17 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Factorization
 
@@ -161,14 +163,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
-| 2 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
-| 3 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
-| 4 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
-| 5 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 6 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 7 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
-| 8 | [Your Social Network](your-social-network0328/) | Medium | python |
+| 1 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
+| 2 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
+| 3 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
+| 4 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
+| 5 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 6 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 7 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 8 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 9 | [Your Social Network](your-social-network0328/) | Medium | python |
 
 ## Greedy
 
@@ -176,11 +179,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
 | 2 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
-| 3 | [Gas Station](circular-tour-1587115620/) | Medium | python |
-| 4 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 5 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
-| 6 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 7 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 3 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
+| 4 | [Gas Station](circular-tour-1587115620/) | Medium | python |
+| 5 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 6 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 7 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 8 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 
 ## Hash
 
