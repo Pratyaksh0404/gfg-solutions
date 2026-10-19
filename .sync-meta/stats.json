@@ -1261,5 +1261,19 @@
       "Graph",
       "Shortest Path"
     ]
+  },
+  {
+    "slug": "good-stones--170647",
+    "title": "Count Indices That Escape the Array",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "good-stones--170647/",
+    "url": "https://www.geeksforgeeks.org/problems/good-stones--170647/1",
+    "topics": [
+      "Greedy",
+      "Dynamic Programming",
+      "Graph",
+      "DFS"
+    ]
   }
 ]
