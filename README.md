@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 109 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 57 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 110 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 58 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -17,29 +17,30 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Adding Ones](adding-ones3628/) | Easy | python |
 | 2 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
 | 3 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 4 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 5 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 6 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 7 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 8 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 9 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 10 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 11 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
-| 12 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 13 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 14 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 15 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 16 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 17 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 18 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 19 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 20 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 21 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 22 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 23 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 24 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 25 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 26 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 4 | [Largest with Same Parity Adjacent Swaps](even-swap/) | Medium | python |
+| 5 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 6 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 7 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 8 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 9 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 10 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 12 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
+| 13 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 14 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 15 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 16 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 17 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 18 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 19 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 20 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 21 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 22 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 23 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 24 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 25 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 26 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 27 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## BFS
 
@@ -352,12 +353,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Dominant Pairs](dominant-pairs/) | Easy | python |
-| 2 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
-| 3 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 4 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
-| 5 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
-| 6 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
-| 7 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 2 | [Largest with Same Parity Adjacent Swaps](even-swap/) | Medium | python |
+| 3 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
+| 4 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 5 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 6 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 7 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
+| 8 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Strings
 
