@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 110 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 58 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 111 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 59 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -30,17 +30,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
 | 15 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
 | 16 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 17 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 18 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 19 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 20 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 21 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 22 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 23 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 24 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 25 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 26 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 27 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 17 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
+| 18 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 19 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 20 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 21 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 22 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 23 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 24 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 25 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 26 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 27 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 28 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## BFS
 
@@ -143,9 +144,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
 | 13 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
 | 14 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
-| 15 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
-| 16 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
-| 17 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 15 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
+| 16 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
+| 17 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 18 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Factorization
 
