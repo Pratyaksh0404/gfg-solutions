@@ -1287,5 +1287,17 @@
       "Arrays",
       "Sorting"
     ]
+  },
+  {
+    "slug": "smallest-sum-contiguous-subarray",
+    "title": "Minimum Sum Subarray",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "smallest-sum-contiguous-subarray/",
+    "url": "https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1",
+    "topics": [
+      "Arrays",
+      "Dynamic Programming"
+    ]
   }
 ]
