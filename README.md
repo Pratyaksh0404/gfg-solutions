@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 111 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 59 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 112 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 60 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -380,12 +380,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 11 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
 | 12 | [Longest Word](display-longest-name0853/) | Basic | python |
 | 13 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 14 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 15 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 16 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 17 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 18 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 19 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 14 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
+| 15 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 16 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 17 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 18 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 19 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 20 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## Tree
 
