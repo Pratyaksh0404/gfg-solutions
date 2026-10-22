@@ -1299,5 +1299,16 @@
       "Arrays",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "palindrome-with-minimum-sum--170648",
+    "title": "Palindrome with Replacement",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "palindrome-with-minimum-sum--170648/",
+    "url": "https://www.geeksforgeeks.org/problems/palindrome-with-minimum-sum--170648/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
