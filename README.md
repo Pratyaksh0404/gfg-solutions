@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 112 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 60 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 113 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -60,7 +60,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Minimum Absolute Difference In BST](minimum-absolute-difference-in-bst-1665139652/) | Medium | python |
+| 1 | [Count Pairs Violating BST Property](pairs-violating-bst-property--212515/) | Medium | python |
+| 2 | [Minimum Absolute Difference In BST](minimum-absolute-difference-in-bst-1665139652/) | Medium | python |
 
 ## Bit Magic
 
@@ -260,6 +261,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Largest Subsquare Surrounded by X](largest-subsquare-surrounded-by-x0558/) | Medium | python |
 | 4 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
+## Merge Sort
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Pairs Violating BST Property](pairs-violating-bst-property--212515/) | Medium | python |
+
 ## Modular Arithmetic
 
 | # | My Solution | Difficulty | Language |
@@ -387,6 +394,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 18 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
 | 19 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
 | 20 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+
+## Traversal
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Pairs Violating BST Property](pairs-violating-bst-property--212515/) | Medium | python |
 
 ## Tree
 
