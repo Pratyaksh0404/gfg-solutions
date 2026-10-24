@@ -1323,5 +1323,16 @@
       "Merge Sort",
       "Traversal"
     ]
+  },
+  {
+    "slug": "trace-path3840",
+    "title": "Trace Path",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "trace-path3840/",
+    "url": "https://www.geeksforgeeks.org/problems/trace-path3840/1",
+    "topics": [
+      "Matrix"
+    ]
   }
 ]
