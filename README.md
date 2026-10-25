@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 114 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 115 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -433,4 +433,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Unknown | python |
 | 5 | [Merge Sort](merge-sort/) | Unknown | python |
 | 6 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Unknown | python |
-| 7 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
+| 7 | [Sum of Beauty of All Substrings](sum-of-beauty-of-all-substrings-1662962118/) | Unknown | python |
+| 8 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
