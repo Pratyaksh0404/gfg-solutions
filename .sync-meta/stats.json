@@ -1345,5 +1345,17 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimize-the-difference",
+    "title": "Minimize Max Min Diff with Subarray Removal",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "minimize-the-difference/",
+    "url": "https://www.geeksforgeeks.org/problems/minimize-the-difference/1",
+    "topics": [
+      "Arrays",
+      "Prefix Sum"
+    ]
   }
 ]
