@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 115 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 116 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 62 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -26,22 +26,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
 | 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 12 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
-| 13 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 14 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 15 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 16 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 17 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
-| 18 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 19 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 20 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 21 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 22 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 23 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 24 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 25 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 26 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 27 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 28 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 13 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
+| 14 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 15 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 16 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 17 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 18 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
+| 19 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 20 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 21 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 22 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 23 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 24 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 25 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 26 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 27 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 28 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 29 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## BFS
 
@@ -305,6 +306,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 2 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
 
 ## python
 
