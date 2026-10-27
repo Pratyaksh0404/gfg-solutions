@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 116 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 62 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 117 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 63 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -139,17 +139,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Longest Increasing Path in Matrix](longest-increasing-path-in-a-matrix/) | Hard | python |
 | 6 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
 | 7 | [Maximum Height Disc Stack](stacking-up-discs1315/) | Hard | python |
-| 8 | [Min Cost To Make Two Strings Identical](minimum-cost-to-make-two-strings-identical1107/) | Medium | python |
-| 9 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
-| 10 | [Minimum Cost Pizza Selection](pizza-mania0155/) | Medium | python |
-| 11 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
-| 12 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 13 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 14 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
-| 15 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
-| 16 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
-| 17 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
-| 18 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 8 | [Maximum Weight Transformation of String](maximum-weight-transformation-of-a-given-string3551/) | Medium | python |
+| 9 | [Min Cost To Make Two Strings Identical](minimum-cost-to-make-two-strings-identical1107/) | Medium | python |
+| 10 | [Minimum Cost for n Characters](minimum-time1238/) | Medium | python |
+| 11 | [Minimum Cost Pizza Selection](pizza-mania0155/) | Medium | python |
+| 12 | [Minimum Cost Selection](buying-vegetables0016/) | Medium | python |
+| 13 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 14 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 15 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 16 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
+| 17 | [Pyramid Array with Reduce Operations](pyramid-form3044/) | Medium | python |
+| 18 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 19 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Factorization
 
