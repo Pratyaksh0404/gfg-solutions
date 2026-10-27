@@ -1357,5 +1357,16 @@
       "Arrays",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "maximum-weight-transformation-of-a-given-string3551",
+    "title": "Maximum Weight Transformation of String",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "maximum-weight-transformation-of-a-given-string3551/",
+    "url": "https://www.geeksforgeeks.org/problems/maximum-weight-transformation-of-a-given-string3551/1",
+    "topics": [
+      "Dynamic Programming"
+    ]
   }
 ]
