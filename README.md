@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 117 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 63 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 118 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 64 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -246,13 +246,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
 | 14 | [N-th Term of GP](series-gp4646/) | Easy | python |
 | 15 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 16 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 17 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 18 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
-| 19 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 20 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 21 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 22 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 16 | [Nth in Concatenated Decimal String](nth-character-in-concatenated-decimal-string0245/) | Medium | python |
+| 17 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 18 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 19 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 20 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 21 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 22 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 23 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
