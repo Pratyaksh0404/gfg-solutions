@@ -1368,5 +1368,16 @@
     "topics": [
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "nth-character-in-concatenated-decimal-string0245",
+    "title": "Nth in Concatenated Decimal String",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "nth-character-in-concatenated-decimal-string0245/",
+    "url": "https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1",
+    "topics": [
+      "Mathematics"
+    ]
   }
 ]
