@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 118 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 64 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 119 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -207,6 +207,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Activity Selection](activity-selection-1587115620/) | Medium | python |
+| 2 | [Optimal File Merge](optimal-file-merge/) | Medium | python |
 
 ## implementation
 
