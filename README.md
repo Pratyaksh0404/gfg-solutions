@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 119 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 120 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -199,8 +199,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
 | 2 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
 | 3 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 4 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 5 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
+| 4 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
+| 5 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 6 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
 
 ## Heap
 
@@ -253,8 +254,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 19 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
 | 20 | [Reverse Digits](reverse-digit0316/) | Basic | python |
 | 21 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 22 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 23 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 22 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
+| 23 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 24 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
@@ -278,6 +280,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
 | 2 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 3 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
 
 ## Number Theory
 
@@ -400,6 +403,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 18 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
 | 19 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
 | 20 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+
+## subset
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
 
 ## Traversal
 
