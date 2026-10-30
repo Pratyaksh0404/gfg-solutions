@@ -1390,5 +1390,19 @@
     "topics": [
       "Heap"
     ]
+  },
+  {
+    "slug": "crazy-subsets--131708",
+    "title": "Subsets with MEX in Range",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "crazy-subsets--131708/",
+    "url": "https://www.geeksforgeeks.org/problems/crazy-subsets--131708/1",
+    "topics": [
+      "Mathematics",
+      "subset",
+      "Modular Arithmetic",
+      "Hash"
+    ]
   }
 ]
