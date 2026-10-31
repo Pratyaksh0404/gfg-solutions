@@ -1404,5 +1404,18 @@
       "Modular Arithmetic",
       "Hash"
     ]
+  },
+  {
+    "slug": "bird-and-maximum-fruit-gathering0509",
+    "title": "Maximum Packages within Time",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "bird-and-maximum-fruit-gathering0509/",
+    "url": "https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1",
+    "topics": [
+      "Arrays",
+      "sliding-window",
+      "two-pointer-algorithm"
+    ]
   }
 ]
