@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 120 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 10
+**Total solved:** 121 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -26,23 +26,24 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
 | 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 12 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
-| 13 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
-| 14 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 15 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 16 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 17 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 18 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
-| 19 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 20 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 21 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 22 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 23 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 24 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 25 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 26 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 27 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 28 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 29 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 13 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
+| 14 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
+| 15 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 16 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 17 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 18 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 19 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
+| 20 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 21 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 22 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 23 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 24 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 25 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 26 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 27 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 28 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 29 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 30 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## BFS
 
@@ -365,6 +366,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Maximum Frequency with K Increments](maximum-frequency-1662528911/) | Medium | python |
+| 2 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
 
 ## Sorting
 
@@ -435,7 +437,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
 | 2 | [Delete Middle of Linked List](delete-middle-of-linked-list/) | Easy | python |
 | 3 | [Dominant Pairs](dominant-pairs/) | Easy | python |
-| 4 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
+| 4 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
+| 5 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
 
 ## Uncategorized
 
