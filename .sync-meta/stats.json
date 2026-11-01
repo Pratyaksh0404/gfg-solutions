@@ -1417,5 +1417,16 @@
       "sliding-window",
       "two-pointer-algorithm"
     ]
+  },
+  {
+    "slug": "maximum-sum-subarray--143510",
+    "title": "Maximum Subarray Sum with One Square Allowed",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "maximum-sum-subarray--143510/",
+    "url": "https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1",
+    "topics": [
+      "Arrays"
+    ]
   }
 ]
