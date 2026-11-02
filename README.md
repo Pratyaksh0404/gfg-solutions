@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 122 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 10
+**Total solved:** 123 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 11
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -45,6 +45,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 29 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 | 30 | [Wave Array](wave-array-1587115621/) | Medium | python |
 | 31 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+
+## Backtracking
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Largest Sum Cycle](largest-sum-cycle--170645/) | Hard | python |
 
 ## BFS
 
@@ -172,14 +178,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
-| 2 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
-| 3 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
-| 4 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
-| 5 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
-| 6 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 7 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 8 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
-| 9 | [Your Social Network](your-social-network0328/) | Medium | python |
+| 2 | [Largest Sum Cycle](largest-sum-cycle--170645/) | Hard | python |
+| 3 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
+| 4 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
+| 5 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
+| 6 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 7 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 8 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 9 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 10 | [Your Social Network](your-social-network0328/) | Medium | python |
 
 ## Greedy
 
