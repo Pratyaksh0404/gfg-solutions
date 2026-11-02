@@ -1428,5 +1428,17 @@
     "topics": [
       "Arrays"
     ]
+  },
+  {
+    "slug": "largest-sum-cycle--170645",
+    "title": "Largest Sum Cycle",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "largest-sum-cycle--170645/",
+    "url": "https://www.geeksforgeeks.org/problems/largest-sum-cycle--170645/1",
+    "topics": [
+      "Graph",
+      "Backtracking"
+    ]
   }
 ]
