@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 123 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 11
+**Total solved:** 124 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -432,11 +432,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Check Level Anagrams in Binary Trees](check-if-all-levels-of-two-trees-are-anagrams-or-not/) | Medium | python |
 | 2 | [Check Subtree](check-if-subtree/) | Medium | python |
-| 3 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
-| 4 | [Max Path Sum Between Two Leaves](maximum-path-sum/) | Hard | python |
-| 5 | [Party in Town](party-in-town3951/) | Medium | python |
-| 6 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
-| 7 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
+| 3 | [Count Tree Paths With Limited Max Edge Weight](possible-paths--141628/) | Hard | python |
+| 4 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
+| 5 | [Max Path Sum Between Two Leaves](maximum-path-sum/) | Hard | python |
+| 6 | [Party in Town](party-in-town3951/) | Medium | python |
+| 7 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
+| 8 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
 
 ## two-pointer-algorithm
 
@@ -447,6 +448,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Dominant Pairs](dominant-pairs/) | Easy | python |
 | 4 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
 | 5 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
+
+## union-find
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Tree Paths With Limited Max Edge Weight](possible-paths--141628/) | Hard | python |
 
 ## Uncategorized
 
