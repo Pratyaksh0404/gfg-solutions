@@ -1440,5 +1440,17 @@
       "Graph",
       "Backtracking"
     ]
+  },
+  {
+    "slug": "possible-paths--141628",
+    "title": "Count Tree Paths With Limited Max Edge Weight",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "possible-paths--141628/",
+    "url": "https://www.geeksforgeeks.org/problems/possible-paths--141628/1",
+    "topics": [
+      "Tree",
+      "union-find"
+    ]
   }
 ]
