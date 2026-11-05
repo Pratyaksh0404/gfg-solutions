@@ -1451,5 +1451,17 @@
       "Tree",
       "union-find"
     ]
+  },
+  {
+    "slug": "minimum-days--170646",
+    "title": "Minimum Days",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "minimum-days--170646/",
+    "url": "https://www.geeksforgeeks.org/problems/minimum-days--170646/1",
+    "topics": [
+      "Strings",
+      "permutation"
+    ]
   }
 ]
