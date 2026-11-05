@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 124 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 125 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -314,6 +314,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [First Occurence](implement-strstr/) | Basic | python |
 
+## permutation
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Minimum Days](minimum-days--170646/) | Medium | python |
+
 ## Prefix Sum
 
 | # | My Solution | Difficulty | Language |
@@ -403,14 +409,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
 | 11 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
 | 12 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 13 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 14 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
-| 15 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 16 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 17 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 18 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 19 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 20 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 13 | [Minimum Days](minimum-days--170646/) | Medium | python |
+| 14 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 15 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
+| 16 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 17 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 18 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 19 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 20 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 21 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## subset
 
