@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 125 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 126 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -244,26 +244,27 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [All Divisors of a Number](all-divisors-of-a-number/) | Easy | python |
 | 2 | [Arithmetic Number](arithmetic-number2815/) | Easy | python |
 | 3 | [Armstrong Numbers](armstrong-numbers2727/) | Easy | python |
-| 4 | [Balancing with Distinct Powers](balancing-pan5038/) | Easy | python |
-| 5 | [Convex Hull](convex-hull2138/) | Hard | python |
-| 6 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 7 | [Factorial](factorial5739/) | Basic | python |
-| 8 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 9 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
-| 10 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 11 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
-| 12 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
-| 13 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 14 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 15 | [Nth in Concatenated Decimal String](nth-character-in-concatenated-decimal-string0245/) | Medium | python |
-| 16 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 17 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 18 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
-| 19 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 20 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 21 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
-| 22 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 23 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 4 | [Balanced Binary Tree Counter](bbt-counter4914/) | Easy | python |
+| 5 | [Balancing with Distinct Powers](balancing-pan5038/) | Easy | python |
+| 6 | [Convex Hull](convex-hull2138/) | Hard | python |
+| 7 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 8 | [Factorial](factorial5739/) | Basic | python |
+| 9 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 10 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
+| 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 12 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 13 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
+| 14 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 15 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 16 | [Nth in Concatenated Decimal String](nth-character-in-concatenated-decimal-string0245/) | Medium | python |
+| 17 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 18 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 19 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 20 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 21 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 22 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
+| 23 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 24 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
@@ -435,14 +436,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Check Level Anagrams in Binary Trees](check-if-all-levels-of-two-trees-are-anagrams-or-not/) | Medium | python |
-| 2 | [Check Subtree](check-if-subtree/) | Medium | python |
-| 3 | [Count Tree Paths With Limited Max Edge Weight](possible-paths--141628/) | Hard | python |
-| 4 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
-| 5 | [Max Path Sum Between Two Leaves](maximum-path-sum/) | Hard | python |
-| 6 | [Party in Town](party-in-town3951/) | Medium | python |
-| 7 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
-| 8 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
+| 1 | [Balanced Binary Tree Counter](bbt-counter4914/) | Easy | python |
+| 2 | [Check Level Anagrams in Binary Trees](check-if-all-levels-of-two-trees-are-anagrams-or-not/) | Medium | python |
+| 3 | [Check Subtree](check-if-subtree/) | Medium | python |
+| 4 | [Count Tree Paths With Limited Max Edge Weight](possible-paths--141628/) | Hard | python |
+| 5 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
+| 6 | [Max Path Sum Between Two Leaves](maximum-path-sum/) | Hard | python |
+| 7 | [Party in Town](party-in-town3951/) | Medium | python |
+| 8 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
+| 9 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
 
 ## two-pointer-algorithm
 
