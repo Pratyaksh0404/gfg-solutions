@@ -1463,5 +1463,17 @@
       "Strings",
       "permutation"
     ]
+  },
+  {
+    "slug": "bbt-counter4914",
+    "title": "Balanced Binary Tree Counter",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "bbt-counter4914/",
+    "url": "https://www.geeksforgeeks.org/problems/bbt-counter4914/1",
+    "topics": [
+      "Mathematics",
+      "Tree"
+    ]
   }
 ]
