@@ -1475,5 +1475,16 @@
       "Mathematics",
       "Tree"
     ]
+  },
+  {
+    "slug": "new-registration-system--150419",
+    "title": "Generate Usernames",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "new-registration-system--150419/",
+    "url": "https://www.geeksforgeeks.org/problems/new-registration-system--150419/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
