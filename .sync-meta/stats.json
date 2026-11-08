@@ -1486,5 +1486,17 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "find-the-minimum-time0253",
+    "title": "Minimum Time with 2 Scanners",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "find-the-minimum-time0253/",
+    "url": "https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1",
+    "topics": [
+      "Mathematics",
+      "Binary Search"
+    ]
   }
 ]
