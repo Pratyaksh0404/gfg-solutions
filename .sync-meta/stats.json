@@ -1498,5 +1498,16 @@
       "Mathematics",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "count-the-characters1821",
+    "title": "Count Group Occurrences",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "count-the-characters1821/",
+    "url": "https://www.geeksforgeeks.org/problems/count-the-characters1821/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
