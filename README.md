@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 128 &nbsp;|&nbsp; 🟢 Easy: 33 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 129 &nbsp;|&nbsp; 🟢 Easy: 34 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -405,23 +405,24 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Check Sum String](additive-sequence/) | Medium | python |
 | 4 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
 | 5 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
-| 6 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 7 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
-| 8 | [First Occurence](implement-strstr/) | Basic | python |
-| 9 | [Generate Usernames](new-registration-system--150419/) | Easy | python |
-| 10 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 11 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 12 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
-| 13 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 14 | [Minimum Days](minimum-days--170646/) | Medium | python |
-| 15 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 16 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
-| 17 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 18 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 19 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 20 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 21 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 22 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 6 | [Count Group Occurrences](count-the-characters1821/) | Easy | python |
+| 7 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 8 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
+| 9 | [First Occurence](implement-strstr/) | Basic | python |
+| 10 | [Generate Usernames](new-registration-system--150419/) | Easy | python |
+| 11 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 12 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 13 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
+| 14 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 15 | [Minimum Days](minimum-days--170646/) | Medium | python |
+| 16 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 17 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
+| 18 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 19 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 20 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 21 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 22 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 23 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## subset
 
