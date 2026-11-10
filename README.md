@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 129 &nbsp;|&nbsp; 🟢 Easy: 34 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 130 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -15,36 +15,37 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Adding Ones](adding-ones3628/) | Easy | python |
-| 2 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
-| 3 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 4 | [Largest with Same Parity Adjacent Swaps](even-swap/) | Medium | python |
-| 5 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 6 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 7 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 8 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 9 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 10 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 12 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
-| 13 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
-| 14 | [Maximum Subarray Sum with One Square Allowed](maximum-sum-subarray--143510/) | Medium | python |
-| 15 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
-| 16 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 17 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 18 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 19 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 20 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
-| 21 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 22 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 23 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 24 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 25 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 26 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 27 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 28 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 29 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 30 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 31 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 2 | [At Least K Occurrences](first-element-to-occur-k-times5150/) | Easy | python |
+| 3 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
+| 4 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
+| 5 | [Largest with Same Parity Adjacent Swaps](even-swap/) | Medium | python |
+| 6 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 7 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 8 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 9 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 10 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 11 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 12 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 13 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
+| 14 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
+| 15 | [Maximum Subarray Sum with One Square Allowed](maximum-sum-subarray--143510/) | Medium | python |
+| 16 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
+| 17 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 18 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 19 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 20 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 21 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
+| 22 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 23 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 24 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 25 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 26 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 27 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 28 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 29 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 30 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 31 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 32 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Backtracking
 
@@ -205,12 +206,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 2 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 3 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 4 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
-| 5 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 6 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
+| 1 | [At Least K Occurrences](first-element-to-occur-k-times5150/) | Easy | python |
+| 2 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 3 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 4 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 5 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
+| 6 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 7 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
 
 ## Heap
 
