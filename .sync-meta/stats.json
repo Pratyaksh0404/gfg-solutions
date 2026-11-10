@@ -1509,5 +1509,17 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "first-element-to-occur-k-times5150",
+    "title": "At Least K Occurrences",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "first-element-to-occur-k-times5150/",
+    "url": "https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1",
+    "topics": [
+      "Arrays",
+      "Hash"
+    ]
   }
 ]
