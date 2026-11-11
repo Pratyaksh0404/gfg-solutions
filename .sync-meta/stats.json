@@ -1521,5 +1521,17 @@
       "Arrays",
       "Hash"
     ]
+  },
+  {
+    "slug": "kth-distance3757",
+    "title": "Any Duplicate Within K Distance",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "kth-distance3757/",
+    "url": "https://www.geeksforgeeks.org/problems/kth-distance3757/1",
+    "topics": [
+      "Arrays",
+      "Hash"
+    ]
   }
 ]
