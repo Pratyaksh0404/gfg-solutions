@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 131 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 132 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 67 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -72,8 +72,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Pairs Violating BST Property](pairs-violating-bst-property--212515/) | Medium | python |
-| 2 | [Minimum Absolute Difference In BST](minimum-absolute-difference-in-bst-1665139652/) | Medium | python |
+| 1 | [Closest in BST](find-the-closest-element-in-bst/) | Medium | python |
+| 2 | [Count Pairs Violating BST Property](pairs-violating-bst-property--212515/) | Medium | python |
+| 3 | [Minimum Absolute Difference In BST](minimum-absolute-difference-in-bst-1665139652/) | Medium | python |
 
 ## Bit Magic
 
@@ -447,12 +448,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Balanced Binary Tree Counter](bbt-counter4914/) | Easy | python |
 | 2 | [Check Level Anagrams in Binary Trees](check-if-all-levels-of-two-trees-are-anagrams-or-not/) | Medium | python |
 | 3 | [Check Subtree](check-if-subtree/) | Medium | python |
-| 4 | [Count Tree Paths With Limited Max Edge Weight](possible-paths--141628/) | Hard | python |
-| 5 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
-| 6 | [Max Path Sum Between Two Leaves](maximum-path-sum/) | Hard | python |
-| 7 | [Party in Town](party-in-town3951/) | Medium | python |
-| 8 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
-| 9 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
+| 4 | [Closest in BST](find-the-closest-element-in-bst/) | Medium | python |
+| 5 | [Count Tree Paths With Limited Max Edge Weight](possible-paths--141628/) | Hard | python |
+| 6 | [Left View of Binary Tree](left-view-of-binary-tree/) | Easy | python |
+| 7 | [Max Path Sum Between Two Leaves](maximum-path-sum/) | Hard | python |
+| 8 | [Party in Town](party-in-town3951/) | Medium | python |
+| 9 | [Size of Binary Tree](size-of-binary-tree/) | Basic | python |
+| 10 | [Visit Leaves with Budget](leaf-under-budget/) | Easy | python |
 
 ## two-pointer-algorithm
 
