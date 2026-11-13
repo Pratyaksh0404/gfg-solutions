@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 132 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 67 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 133 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 68 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -73,8 +73,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Closest in BST](find-the-closest-element-in-bst/) | Medium | python |
-| 2 | [Count Pairs Violating BST Property](pairs-violating-bst-property--212515/) | Medium | python |
-| 3 | [Minimum Absolute Difference In BST](minimum-absolute-difference-in-bst-1665139652/) | Medium | python |
+| 2 | [Common Nodes in Two BSTs](print-common-nodes-in-bst/) | Medium | python |
+| 3 | [Count Pairs Violating BST Property](pairs-violating-bst-property--212515/) | Medium | python |
+| 4 | [Minimum Absolute Difference In BST](minimum-absolute-difference-in-bst-1665139652/) | Medium | python |
 
 ## Bit Magic
 
