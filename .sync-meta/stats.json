@@ -1545,5 +1545,16 @@
       "Binary Search Tree",
       "Tree"
     ]
+  },
+  {
+    "slug": "print-common-nodes-in-bst",
+    "title": "Common Nodes in Two BSTs",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "print-common-nodes-in-bst/",
+    "url": "https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1",
+    "topics": [
+      "Binary Search Tree"
+    ]
   }
 ]
