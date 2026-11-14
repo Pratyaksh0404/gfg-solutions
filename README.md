@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 133 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 68 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 134 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -201,9 +201,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
 | 4 | [Gas Station](circular-tour-1587115620/) | Medium | python |
 | 5 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 6 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
-| 7 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 8 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 6 | [Max Equal Sum in 3 Stacks](find-maximum-equal-sum-of-three-stacks/) | Medium | python |
+| 7 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 8 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 9 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 
 ## Hash
 
@@ -401,6 +402,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 | 7 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
 | 8 | [Wave Array](wave-array-1587115621/) | Medium | python |
+
+## Stack
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max Equal Sum in 3 Stacks](find-maximum-equal-sum-of-three-stacks/) | Medium | python |
 
 ## Strings
 
