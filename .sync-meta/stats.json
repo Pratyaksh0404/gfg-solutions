@@ -1556,5 +1556,17 @@
     "topics": [
       "Binary Search Tree"
     ]
+  },
+  {
+    "slug": "find-maximum-equal-sum-of-three-stacks",
+    "title": "Max Equal Sum in 3 Stacks",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "find-maximum-equal-sum-of-three-stacks/",
+    "url": "https://www.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1",
+    "topics": [
+      "Greedy",
+      "Stack"
+    ]
   }
 ]
