@@ -1568,5 +1568,16 @@
       "Greedy",
       "Stack"
     ]
+  },
+  {
+    "slug": "sum-of-all-sub-sequences-of-a-number3437",
+    "title": "Sum of All Digit Subsequences",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "sum-of-all-sub-sequences-of-a-number3437/",
+    "url": "https://www.geeksforgeeks.org/problems/sum-of-all-sub-sequences-of-a-number3437/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
