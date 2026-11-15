@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 134 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 135 &nbsp;|&nbsp; 🟢 Easy: 37 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -434,8 +434,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 19 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
 | 20 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
 | 21 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 22 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 23 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 22 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
+| 23 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 24 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## subset
 
