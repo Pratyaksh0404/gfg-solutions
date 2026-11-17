@@ -1591,5 +1591,16 @@
       "Arrays",
       "Sorting"
     ]
+  },
+  {
+    "slug": "the-pattern-matcher",
+    "title": "Repeated Pattern Check",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "the-pattern-matcher/",
+    "url": "https://www.geeksforgeeks.org/problems/the-pattern-matcher/1",
+    "topics": [
+      "Strings"
+    ]
   }
 ]
