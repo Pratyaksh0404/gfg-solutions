@@ -6,8 +6,8 @@ class Solution:
         if h == 1:
             return 1
 
-        dp0 = 1  # dp[0]
-        dp1 = 1  # dp[1]
+        dp0 = 1 
+        dp1 = 1  
 
         for _ in range(2, h + 1):
             dp2 = (dp1 * (dp1 + 2 * dp0)) % MOD
