@@ -1467,7 +1467,7 @@
   {
     "slug": "bbt-counter4914",
     "title": "Balanced Binary Tree Counter",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "language": "python",
     "path": "bbt-counter4914/",
     "url": "https://www.geeksforgeeks.org/problems/bbt-counter4914/1",
