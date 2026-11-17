@@ -1,6 +1,6 @@
 # [Balanced Binary Tree Counter](https://www.geeksforgeeks.org/problems/bbt-counter4914/1)
 
-**Difficulty:** Easy
+**Difficulty:** Medium
 
 Given a height **h**, find the maximum number of distinct balanced binary trees of height exactly h.
 
