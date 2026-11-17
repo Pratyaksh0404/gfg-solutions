@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 137 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 70 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 137 &nbsp;|&nbsp; 🟢 Easy: 37 &nbsp;|&nbsp; 🟡 Medium: 71 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -253,7 +253,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [All Divisors of a Number](all-divisors-of-a-number/) | Easy | python |
 | 2 | [Arithmetic Number](arithmetic-number2815/) | Easy | python |
 | 3 | [Armstrong Numbers](armstrong-numbers2727/) | Easy | python |
-| 4 | [Balanced Binary Tree Counter](bbt-counter4914/) | Easy | python |
+| 4 | [Balanced Binary Tree Counter](bbt-counter4914/) | Medium | python |
 | 5 | [Balancing with Distinct Powers](balancing-pan5038/) | Easy | python |
 | 6 | [Convex Hull](convex-hull2138/) | Hard | python |
 | 7 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
@@ -457,7 +457,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Balanced Binary Tree Counter](bbt-counter4914/) | Easy | python |
+| 1 | [Balanced Binary Tree Counter](bbt-counter4914/) | Medium | python |
 | 2 | [Check Level Anagrams in Binary Trees](check-if-all-levels-of-two-trees-are-anagrams-or-not/) | Medium | python |
 | 3 | [Check Subtree](check-if-subtree/) | Medium | python |
 | 4 | [Closest in BST](find-the-closest-element-in-bst/) | Medium | python |
