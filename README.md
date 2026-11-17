@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 136 &nbsp;|&nbsp; 🟢 Easy: 37 &nbsp;|&nbsp; 🟡 Medium: 70 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 137 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 70 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -434,11 +434,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 17 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
 | 18 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
 | 19 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 20 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 21 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 22 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
-| 23 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 24 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 20 | [Repeated Pattern Check](the-pattern-matcher/) | Easy | python |
+| 21 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 22 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 23 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
+| 24 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 25 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## subset
 
