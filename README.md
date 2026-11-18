@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 137 &nbsp;|&nbsp; 🟢 Easy: 37 &nbsp;|&nbsp; 🟡 Medium: 71 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 138 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 71 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -86,6 +86,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Maximum Without 3 Consecutive Set Bits](geek-hates-too-many-1s--170647/) | Medium | python |
 | 3 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
 | 4 | [Two odd Occuring](two-numbers-with-odd-occurrences5846/) | Medium | python |
+| 5 | [XOR of Number Range](find-xor-of-numbers-from-l-to-r/) | Easy | python |
 
 ## Combinatorial
 
