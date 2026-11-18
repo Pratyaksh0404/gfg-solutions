@@ -1602,5 +1602,16 @@
     "topics": [
       "Strings"
     ]
+  },
+  {
+    "slug": "find-xor-of-numbers-from-l-to-r",
+    "title": "XOR of Number Range",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "find-xor-of-numbers-from-l-to-r/",
+    "url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
+    "topics": [
+      "Bit Magic"
+    ]
   }
 ]
