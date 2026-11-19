@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 138 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 71 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 139 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -41,13 +41,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 25 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
 | 26 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
 | 27 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 28 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 29 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 30 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 31 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 32 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 33 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 34 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 28 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
+| 29 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 30 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 31 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 32 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 33 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 34 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 35 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Backtracking
 
@@ -313,6 +314,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 2 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
 
 ## Operators
 
@@ -403,8 +405,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
 | 6 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
 | 7 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
-| 8 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
-| 9 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 8 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
+| 9 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
+| 10 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Stack
 
