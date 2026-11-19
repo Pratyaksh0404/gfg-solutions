@@ -1613,5 +1613,18 @@
     "topics": [
       "Bit Magic"
     ]
+  },
+  {
+    "slug": "sort-in-specific-order2422",
+    "title": "Sort in Specific Order",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "sort-in-specific-order2422/",
+    "url": "https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1",
+    "topics": [
+      "Arrays",
+      "Sorting",
+      "Numbers"
+    ]
   }
 ]
