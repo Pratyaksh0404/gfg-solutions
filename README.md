@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 139 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 140 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -61,6 +61,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
+
+## Binary Representation
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Min Flips for Alternate](min-number-of-flips3210/) | Easy | python |
 
 ## Binary Search
 
@@ -433,17 +439,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
 | 13 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
 | 14 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 15 | [Minimum Days](minimum-days--170646/) | Medium | python |
-| 16 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 17 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
-| 18 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 19 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 20 | [Repeated Pattern Check](the-pattern-matcher/) | Easy | python |
-| 21 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 22 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 23 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
-| 24 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 25 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 15 | [Min Flips for Alternate](min-number-of-flips3210/) | Easy | python |
+| 16 | [Minimum Days](minimum-days--170646/) | Medium | python |
+| 17 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 18 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
+| 19 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 20 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 21 | [Repeated Pattern Check](the-pattern-matcher/) | Easy | python |
+| 22 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 23 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 24 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
+| 25 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 26 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## subset
 
