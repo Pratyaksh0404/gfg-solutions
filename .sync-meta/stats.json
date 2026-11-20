@@ -1626,5 +1626,17 @@
       "Sorting",
       "Numbers"
     ]
+  },
+  {
+    "slug": "min-number-of-flips3210",
+    "title": "Min Flips for Alternate",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "min-number-of-flips3210/",
+    "url": "https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1",
+    "topics": [
+      "Strings",
+      "Binary Representation"
+    ]
   }
 ]
