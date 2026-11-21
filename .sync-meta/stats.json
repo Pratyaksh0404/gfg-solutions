@@ -1638,5 +1638,17 @@
       "Strings",
       "Binary Representation"
     ]
+  },
+  {
+    "slug": "smallest-subarray-with-sum-greater-than-x5651",
+    "title": "Smallest Subarray Sum Greater Than x",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "smallest-subarray-with-sum-greater-than-x5651/",
+    "url": "https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
+    "topics": [
+      "Arrays",
+      "sliding-window"
+    ]
   }
 ]
