@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 140 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 141 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -41,14 +41,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 25 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
 | 26 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
 | 27 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 28 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
-| 29 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 30 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 31 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 32 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 33 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 34 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 35 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 28 | [Smallest Subarray Sum Greater Than x](smallest-subarray-with-sum-greater-than-x5651/) | Easy | python |
+| 29 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
+| 30 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 31 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 32 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 33 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 34 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 35 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 36 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Backtracking
 
@@ -399,6 +400,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Maximum Frequency with K Increments](maximum-frequency-1662528911/) | Medium | python |
 | 2 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
+| 3 | [Smallest Subarray Sum Greater Than x](smallest-subarray-with-sum-greater-than-x5651/) | Easy | python |
 
 ## Sorting
 
