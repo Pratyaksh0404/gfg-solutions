@@ -1650,5 +1650,16 @@
       "Arrays",
       "sliding-window"
     ]
+  },
+  {
+    "slug": "longest-subarray-with-sum-divisible-by-k1259",
+    "title": "Longest Subarray Sum Divisible by K",
+    "difficulty": "Unknown",
+    "language": "python",
+    "path": "longest-subarray-with-sum-divisible-by-k1259/",
+    "url": "https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
