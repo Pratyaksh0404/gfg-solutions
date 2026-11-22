@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 141 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 142 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -504,9 +504,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Histogram Max Rectangular Area](maximum-rectangular-area-in-a-histogram-1587115620/) | Unknown | python |
 | 2 | [Lexicographically Smallest Rotation](lexicographically-smallest-string--151951/) | Unknown | python |
 | 3 | [Longest Colored Path](longest-colored-path--151454/) | Hard | python |
-| 4 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Unknown | python |
-| 5 | [Merge Sort](merge-sort/) | Unknown | python |
-| 6 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Unknown | python |
-| 7 | [Sum of Beauty of All Substrings](sum-of-beauty-of-all-substrings-1662962118/) | Unknown | python |
-| 8 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
-| 9 | [XOR of All Subarray XORs](game-of-xor1541/) | Unknown | python |
+| 4 | [Longest Subarray Sum Divisible by K](longest-subarray-with-sum-divisible-by-k1259/) | Unknown | python |
+| 5 | [Longest Subsequence with Adjacent Diff as 1](longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/) | Unknown | python |
+| 6 | [Merge Sort](merge-sort/) | Unknown | python |
+| 7 | [Perimeter of Shapes in Binary Matrix](find-perimeter-of-shapes/) | Unknown | python |
+| 8 | [Sum of Beauty of All Substrings](sum-of-beauty-of-all-substrings-1662962118/) | Unknown | python |
+| 9 | [Word in Grid - All Occurrences](find-the-string-in-grid0111/) | Unknown | python |
+| 10 | [XOR of All Subarray XORs](game-of-xor1541/) | Unknown | python |
