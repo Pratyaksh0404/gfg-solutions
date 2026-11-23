@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 142 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 143 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 73 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -264,26 +264,27 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Armstrong Numbers](armstrong-numbers2727/) | Easy | python |
 | 4 | [Balanced Binary Tree Counter](bbt-counter4914/) | Medium | python |
 | 5 | [Balancing with Distinct Powers](balancing-pan5038/) | Easy | python |
-| 6 | [Convex Hull](convex-hull2138/) | Hard | python |
-| 7 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 8 | [Factorial](factorial5739/) | Basic | python |
-| 9 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 10 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
-| 11 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 12 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
-| 13 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
-| 14 | [Minimum Time with 2 Scanners](find-the-minimum-time0253/) | Easy | python |
-| 15 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 16 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 17 | [Nth in Concatenated Decimal String](nth-character-in-concatenated-decimal-string0245/) | Medium | python |
-| 18 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 19 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 20 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
-| 21 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 22 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 23 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
-| 24 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 25 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 6 | [Character at Position in Infinite String](the-infinite-string1049/) | Medium | python |
+| 7 | [Convex Hull](convex-hull2138/) | Hard | python |
+| 8 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 9 | [Factorial](factorial5739/) | Basic | python |
+| 10 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
+| 11 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
+| 12 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 13 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 14 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
+| 15 | [Minimum Time with 2 Scanners](find-the-minimum-time0253/) | Easy | python |
+| 16 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 17 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 18 | [Nth in Concatenated Decimal String](nth-character-in-concatenated-decimal-string0245/) | Medium | python |
+| 19 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 20 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 21 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 22 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 23 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 24 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
+| 25 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 26 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
@@ -370,9 +371,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Check Sum String](additive-sequence/) | Medium | python |
-| 2 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
-| 3 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
+| 1 | [Character at Position in Infinite String](the-infinite-string1049/) | Medium | python |
+| 2 | [Check Sum String](additive-sequence/) | Medium | python |
+| 3 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
+| 4 | [Tower Of Hanoi](tower-of-hanoi-1587115621/) | Medium | python |
 
 ## Searching
 
@@ -428,31 +430,32 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Cat and Hat](cat-and-hat-python/) | Medium | python |
-| 2 | [Check for Binary String](check-for-binary/) | Basic | python |
-| 3 | [Check Sum String](additive-sequence/) | Medium | python |
-| 4 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
-| 5 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
-| 6 | [Count Group Occurrences](count-the-characters1821/) | Easy | python |
-| 7 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
-| 8 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
-| 9 | [First Occurence](implement-strstr/) | Basic | python |
-| 10 | [Generate Usernames](new-registration-system--150419/) | Easy | python |
-| 11 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
-| 12 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 13 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
-| 14 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 15 | [Min Flips for Alternate](min-number-of-flips3210/) | Easy | python |
-| 16 | [Minimum Days](minimum-days--170646/) | Medium | python |
-| 17 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 18 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
-| 19 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 20 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 21 | [Repeated Pattern Check](the-pattern-matcher/) | Easy | python |
-| 22 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 23 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 24 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
-| 25 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 26 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 2 | [Character at Position in Infinite String](the-infinite-string1049/) | Medium | python |
+| 3 | [Check for Binary String](check-for-binary/) | Basic | python |
+| 4 | [Check Sum String](additive-sequence/) | Medium | python |
+| 5 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
+| 6 | [Convert String to Lower Case](convert-string-to-lowercase/) | Basic | python |
+| 7 | [Count Group Occurrences](count-the-characters1821/) | Easy | python |
+| 8 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
+| 9 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
+| 10 | [First Occurence](implement-strstr/) | Basic | python |
+| 11 | [Generate Usernames](new-registration-system--150419/) | Easy | python |
+| 12 | [k-Anagram](check-if-two-strings-are-k-anagrams-or-not/) | Medium | python |
+| 13 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 14 | [Longest Matching in Dictionary with Removals](find-largest-word-in-dictionary2430/) | Medium | python |
+| 15 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 16 | [Min Flips for Alternate](min-number-of-flips3210/) | Easy | python |
+| 17 | [Minimum Days](minimum-days--170646/) | Medium | python |
+| 18 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 19 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
+| 20 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 21 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 22 | [Repeated Pattern Check](the-pattern-matcher/) | Easy | python |
+| 23 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 24 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 25 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
+| 26 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 27 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## subset
 
