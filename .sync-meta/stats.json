@@ -1661,5 +1661,18 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "the-infinite-string1049",
+    "title": "Character at Position in Infinite String",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "the-infinite-string1049/",
+    "url": "https://www.geeksforgeeks.org/problems/the-infinite-string1049/1",
+    "topics": [
+      "Mathematics",
+      "Strings",
+      "Recursion"
+    ]
   }
 ]
