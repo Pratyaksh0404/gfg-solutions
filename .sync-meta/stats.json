@@ -1674,5 +1674,18 @@
       "Strings",
       "Recursion"
     ]
+  },
+  {
+    "slug": "satisfy-the-equation5847",
+    "title": "Two Pairs with Same Sum",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "satisfy-the-equation5847/",
+    "url": "https://www.geeksforgeeks.org/problems/satisfy-the-equation5847/1",
+    "topics": [
+      "Hash",
+      "Sorting",
+      "Map"
+    ]
   }
 ]
