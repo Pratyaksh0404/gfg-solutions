@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 143 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 73 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 144 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 74 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -227,7 +227,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
 | 6 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
 | 7 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 8 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
+| 8 | [Two Pairs with Same Sum](satisfy-the-equation5847/) | Medium | python |
+| 9 | [Unoccupied Computers](unoccupied-computers-1646661078/) | Easy | python |
 
 ## Heap
 
@@ -254,6 +255,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Delete Middle of Linked List](delete-middle-of-linked-list/) | Easy | python |
 | 2 | [Search in Linked List](search-in-linked-list-1664434326/) | Easy | python |
+
+## Map
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Two Pairs with Same Sum](satisfy-the-equation5847/) | Medium | python |
 
 ## Mathematics
 
@@ -417,7 +424,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 | 8 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
 | 9 | [Sort Two Parts Sorted](sort-the-half-sorted2157/) | Easy | python |
-| 10 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 10 | [Two Pairs with Same Sum](satisfy-the-equation5847/) | Medium | python |
+| 11 | [Wave Array](wave-array-1587115621/) | Medium | python |
 
 ## Stack
 
