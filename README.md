@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 144 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 74 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 145 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 74 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -18,38 +18,39 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Any Duplicate Within K Distance](kth-distance3757/) | Easy | python |
 | 3 | [At Least K Occurrences](first-element-to-occur-k-times5150/) | Easy | python |
 | 4 | [Bird and Max Fruit Gathering](bird-and-maximum-fruit-gathering--170645/) | Easy | python |
-| 5 | [K-th Missing in Natural Numbers](k-th-missing-element-in-natural-numbers/) | Medium | python |
-| 6 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
-| 7 | [Largest with Same Parity Adjacent Swaps](even-swap/) | Medium | python |
-| 8 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
-| 9 | [Longest Word](display-longest-name0853/) | Basic | python |
-| 10 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 11 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
-| 12 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
-| 13 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
-| 14 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 15 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
-| 16 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
-| 17 | [Maximum Subarray Sum with One Square Allowed](maximum-sum-subarray--143510/) | Medium | python |
-| 18 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
-| 19 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
-| 20 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
-| 21 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
-| 22 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 23 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
-| 24 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
-| 25 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 26 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
-| 27 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 28 | [Smallest Subarray Sum Greater Than x](smallest-subarray-with-sum-greater-than-x5651/) | Easy | python |
-| 29 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
-| 30 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 31 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
-| 32 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
-| 33 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
-| 34 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
-| 35 | [Wave Array](wave-array-1587115621/) | Medium | python |
-| 36 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
+| 5 | [Geek's Destination with Special Jump](geek-and-her-destination--145724/) | Hard | python |
+| 6 | [K-th Missing in Natural Numbers](k-th-missing-element-in-natural-numbers/) | Medium | python |
+| 7 | [Largest Rectangle with Column Swaps](find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/) | Hard | python |
+| 8 | [Largest with Same Parity Adjacent Swaps](even-swap/) | Medium | python |
+| 9 | [Longest Common Prefix of Strings](longest-common-prefix-in-an-array5129/) | Easy | python |
+| 10 | [Longest Word](display-longest-name0853/) | Basic | python |
+| 11 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 12 | [Majority Element - More Than n/3](majority-vote/) | Medium | python |
+| 13 | [Marks from Ranks](find-marks-from-ranks/) | Medium | python |
+| 14 | [Max Adjacent Diffs Sum with 1 Replacements](modify-array-to-maximize-sum-of-adjacent-differences1729/) | Medium | python |
+| 15 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 16 | [Max Product Subsequence of Size K](maximum-product4633/) | Medium | python |
+| 17 | [Maximum Packages within Time](bird-and-maximum-fruit-gathering0509/) | Easy | python |
+| 18 | [Maximum Subarray Sum with One Square Allowed](maximum-sum-subarray--143510/) | Medium | python |
+| 19 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
+| 20 | [Minimum Elements Outside Subsequences](minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/) | Hard | python |
+| 21 | [Minimum Increment or Double Operations to Convert](minimum-steps-to-get-desired-array5519/) | Medium | python |
+| 22 | [Minimum Moves to Sort Permutation](morning-assembly3038/) | Medium | python |
+| 23 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 24 | [Minimum Sum Subarray](smallest-sum-contiguous-subarray/) | Medium | python |
+| 25 | [Move all negative elements to end](move-all-negative-elements-to-end1813/) | Easy | python |
+| 26 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 27 | [Pairs with Less Than K Diff](pairs-with-difference-less-than-k1348/) | Easy | python |
+| 28 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 29 | [Smallest Subarray Sum Greater Than x](smallest-subarray-with-sum-greater-than-x5651/) | Easy | python |
+| 30 | [Sort in Specific Order](sort-in-specific-order2422/) | Medium | python |
+| 31 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 32 | [Successful Binary Searches Irrespective of Pivot](count-always-found/) | Medium | python |
+| 33 | [Swap Pairs Make Sum Equal](swapping-pairs-make-sum-equal4142/) | Medium | python |
+| 34 | [Transform Array In-Place](rearrange-an-array-with-o1-extra-space3142/) | Medium | python |
+| 35 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 36 | [Wave Array](wave-array-1587115621/) | Medium | python |
+| 37 | [Ways to Reach Origin](paths-to-reach-origin3850/) | Medium | python |
 
 ## Backtracking
 
@@ -210,11 +211,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Convert One String to Another with Constraints](check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/) | Easy | python |
 | 3 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
 | 4 | [Gas Station](circular-tour-1587115620/) | Medium | python |
-| 5 | [Majority Element](majority-element-1587115620/) | Medium | python |
-| 6 | [Max Equal Sum in 3 Stacks](find-maximum-equal-sum-of-three-stacks/) | Medium | python |
-| 7 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
-| 8 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
-| 9 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
+| 5 | [Geek's Destination with Special Jump](geek-and-her-destination--145724/) | Hard | python |
+| 6 | [Majority Element](majority-element-1587115620/) | Medium | python |
+| 7 | [Max Equal Sum in 3 Stacks](find-maximum-equal-sum-of-three-stacks/) | Medium | python |
+| 8 | [Minimum Operations to Reach n](find-optimum-operation4504/) | Easy | python |
+| 9 | [Minimum Platforms](minimum-platforms-1587115620/) | Medium | python |
+| 10 | [Shop in Candy Store](shop-in-candy-store1145/) | Easy | python |
 
 ## Hash
 
@@ -276,22 +278,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Count Palindromic Strings with Constraints](number-of-palindromic-strings2706/) | Medium | python |
 | 9 | [Factorial](factorial5739/) | Basic | python |
 | 10 | [Find nth root of m](find-nth-root-of-m5843/) | Medium | python |
-| 11 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
-| 12 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 13 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
-| 14 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
-| 15 | [Minimum Time with 2 Scanners](find-the-minimum-time0253/) | Easy | python |
-| 16 | [N-th Term of GP](series-gp4646/) | Easy | python |
-| 17 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
-| 18 | [Nth in Concatenated Decimal String](nth-character-in-concatenated-decimal-string0245/) | Medium | python |
-| 19 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
-| 20 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
-| 21 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
-| 22 | [Reverse Digits](reverse-digit0316/) | Basic | python |
-| 23 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 24 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
-| 25 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
-| 26 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
+| 11 | [Geek's Destination with Special Jump](geek-and-her-destination--145724/) | Hard | python |
+| 12 | [LCM And GCD](lcm-and-gcd4516/) | Easy | python |
+| 13 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 14 | [Max Digit Sum Number in 1 to n](biggest-integer-having-maximum-digit-sum1704/) | Easy | python |
+| 15 | [Minimum Squares with Full Cuts](squares-in-reactangle3340/) | Medium | python |
+| 16 | [Minimum Time with 2 Scanners](find-the-minimum-time0253/) | Easy | python |
+| 17 | [N-th Term of GP](series-gp4646/) | Easy | python |
+| 18 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
+| 19 | [Nth in Concatenated Decimal String](nth-character-in-concatenated-decimal-string0245/) | Medium | python |
+| 20 | [Numbers with Constraints on Digits and Digit Sum](special-digits--170647/) | Hard | python |
+| 21 | [Pairs with Given GCD and LCM](possible-pairs1550/) | Easy | python |
+| 22 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 23 | [Reverse Digits](reverse-digit0316/) | Basic | python |
+| 24 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 25 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
+| 26 | [Sum of Pairwise ANDs](sum-of-products5049/) | Medium | python |
+| 27 | [Values with Equal Array Remainders](k-modulus-array-element0255/) | Easy | python |
 
 ## Matrix
 
@@ -314,15 +317,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Friends Pairing Problem](friends-pairing-problem5425/) | Medium | python |
-| 2 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
-| 3 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
+| 2 | [Geek's Destination with Special Jump](geek-and-her-destination--145724/) | Hard | python |
+| 3 | [Sequences where Adjacent Divide](count-in-array2138/) | Medium | python |
+| 4 | [Subsets with MEX in Range](crazy-subsets--131708/) | Hard | python |
 
 ## Number Theory
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Factorials of Large](factorials-of-large-numbers2508/) | Medium | python |
-| 2 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
+| 2 | [Geek's Destination with Special Jump](geek-and-her-destination--145724/) | Hard | python |
+| 3 | [Range GCD Queries](range-gcd-queries3654/) | Medium | python |
 
 ## Numbers
 
@@ -353,8 +358,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
-| 2 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
+| 1 | [Geek's Destination with Special Jump](geek-and-her-destination--145724/) | Hard | python |
+| 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
+| 3 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
 
 ## python
 
