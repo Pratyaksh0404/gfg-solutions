@@ -1687,5 +1687,21 @@
       "Sorting",
       "Map"
     ]
+  },
+  {
+    "slug": "geek-and-her-destination--145724",
+    "title": "Geek's Destination with Special Jump",
+    "difficulty": "Hard",
+    "language": "python",
+    "path": "geek-and-her-destination--145724/",
+    "url": "https://www.geeksforgeeks.org/problems/geek-and-her-destination--145724/1",
+    "topics": [
+      "Prefix Sum",
+      "Number Theory",
+      "Greedy",
+      "Mathematics",
+      "Modular Arithmetic",
+      "Arrays"
+    ]
   }
 ]
