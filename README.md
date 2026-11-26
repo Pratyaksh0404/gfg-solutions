@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 145 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 74 &nbsp;|&nbsp; 🔴 Hard: 13
+**Total solved:** 146 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 75 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -361,6 +361,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Geek's Destination with Special Jump](geek-and-her-destination--145724/) | Hard | python |
 | 2 | [Max After m Range Increments](max-value-after-m-range-operation4300/) | Medium | python |
 | 3 | [Minimize Max Min Diff with Subarray Removal](minimize-the-difference/) | Medium | python |
+| 4 | [Range Vowel Count Queries](range-vowel-count-queries-static/) | Medium | python |
 
 ## python
 
@@ -462,14 +463,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 17 | [Minimum Days](minimum-days--170646/) | Medium | python |
 | 18 | [Nearest Multiple of 10](nearest-multiple-of-102437/) | Easy | python |
 | 19 | [Palindrome with Replacement](palindrome-with-minimum-sum--170648/) | Medium | python |
-| 20 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
-| 21 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
-| 22 | [Repeated Pattern Check](the-pattern-matcher/) | Easy | python |
-| 23 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
-| 24 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
-| 25 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
-| 26 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
-| 27 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
+| 20 | [Range Vowel Count Queries](range-vowel-count-queries-static/) | Medium | python |
+| 21 | [Remove Consonants](c-program-to-remove-consonants-from-a-string1945/) | Basic | python |
+| 22 | [Remove Vowels](remove-vowels-from-string1446/) | Basic | python |
+| 23 | [Repeated Pattern Check](the-pattern-matcher/) | Easy | python |
+| 24 | [Roll Characters of String](roll-the-characters-of-a-string2127/) | Medium | python |
+| 25 | [String Duplicates Removal](remove-all-duplicates-from-a-given-string4321/) | Easy | python |
+| 26 | [Sum of All Digit Subsequences](sum-of-all-sub-sequences-of-a-number3437/) | Easy | python |
+| 27 | [Sum Two Large Numbers](sum-of-numbers-or-number1219/) | Medium | python |
+| 28 | [Validate an IP Address](validate-an-ip-address-1587115621/) | Medium | python |
 
 ## subset
 
