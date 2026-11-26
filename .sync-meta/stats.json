@@ -1703,5 +1703,17 @@
       "Modular Arithmetic",
       "Arrays"
     ]
+  },
+  {
+    "slug": "range-vowel-count-queries-static",
+    "title": "Range Vowel Count Queries",
+    "difficulty": "Medium",
+    "language": "python",
+    "path": "range-vowel-count-queries-static/",
+    "url": "https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1",
+    "topics": [
+      "Prefix Sum",
+      "Strings"
+    ]
   }
 ]
