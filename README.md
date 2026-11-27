@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 146 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 75 &nbsp;|&nbsp; 🔴 Hard: 13
+**Total solved:** 147 &nbsp;|&nbsp; 🟢 Easy: 41 &nbsp;|&nbsp; 🟡 Medium: 75 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -192,16 +192,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
-| 2 | [Largest Sum Cycle](largest-sum-cycle--170645/) | Hard | python |
-| 3 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
-| 4 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
-| 5 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
-| 6 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
-| 7 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 8 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 9 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
-| 10 | [Your Social Network](your-social-network0328/) | Medium | python |
+| 1 | [Count Edges in Graph](count-number-of-edges-in-an-undirected-graph/) | Easy | python |
+| 2 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
+| 3 | [Largest Sum Cycle](largest-sum-cycle--170645/) | Hard | python |
+| 4 | [Min Edge Movements to Connect a Graph](connecting-the-graph/) | Medium | python |
+| 5 | [Min Edge Reversals for Path](minimum-edges/) | Medium | python |
+| 6 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
+| 7 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
+| 8 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
+| 9 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 10 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 11 | [Your Social Network](your-social-network0328/) | Medium | python |
 
 ## Greedy
 
