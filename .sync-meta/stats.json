@@ -1726,5 +1726,18 @@
     "topics": [
       "Graph"
     ]
+  },
+  {
+    "slug": "path-exists",
+    "title": "Path Exists Between Two Vertices",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "path-exists/",
+    "url": "https://www.geeksforgeeks.org/problems/path-exists/1",
+    "topics": [
+      "BFS",
+      "Graph",
+      "DFS"
+    ]
   }
 ]
