@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 147 &nbsp;|&nbsp; 🟢 Easy: 41 &nbsp;|&nbsp; 🟡 Medium: 75 &nbsp;|&nbsp; 🔴 Hard: 13
+**Total solved:** 148 &nbsp;|&nbsp; 🟢 Easy: 42 &nbsp;|&nbsp; 🟡 Medium: 75 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -63,6 +63,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
+| 2 | [Path Exists Between Two Vertices](path-exists/) | Easy | python |
 
 ## Binary Representation
 
@@ -137,7 +138,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Count Indices That Escape the Array](good-stones--170647/) | Medium | python |
 | 2 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
 | 3 | [Party in Town](party-in-town3951/) | Medium | python |
-| 4 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 4 | [Path Exists Between Two Vertices](path-exists/) | Easy | python |
+| 5 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
 
 ## Disjoint Set
 
@@ -200,9 +202,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Min Steps by Knight](steps-by-knight5927/) | Medium | python |
 | 7 | [Minimum Time to Finish Project](project-manager--141631/) | Medium | python |
 | 8 | [Negative Weight Cycle](negative-weight-cycle3504/) | Medium | python |
-| 9 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
-| 10 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
-| 11 | [Your Social Network](your-social-network0328/) | Medium | python |
+| 9 | [Path Exists Between Two Vertices](path-exists/) | Easy | python |
+| 10 | [Shortest Path From 1 To n](shortest-path-from-1-to-n0156/) | Easy | python |
+| 11 | [Shortest Safe Route in Grid](find-shortest-safe-route-in-a-matrix/) | Medium | python |
+| 12 | [Your Social Network](your-social-network0328/) | Medium | python |
 
 ## Greedy
 
